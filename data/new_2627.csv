@@ -1,1 +1,1982 @@
 Division,MatchDate,HomeTeam,AwayTeam,FTHome,FTAway
+E0,2026-08-21,Arsenal,Coventry,3,0
+E0,2026-08-22,Hull,Man United,2,0
+E0,2026-08-22,Everton,Crystal Palace,2,0
+E0,2026-08-22,Ipswich,Sunderland,2,1
+E0,2026-08-22,Nott'm Forest,Leeds,0,1
+E0,2026-08-22,Brentford,Tottenham,3,0
+E0,2026-08-23,Brighton,Aston Villa,4,0
+E0,2026-08-23,Man City,Bournemouth,2,1
+E0,2026-08-23,Newcastle,Liverpool,2,2
+E0,2026-08-24,Fulham,Chelsea,2,3
+E0,2026-08-28,Crystal Palace,Man City,1,4
+E0,2026-08-29,Liverpool,Nott'm Forest,2,2
+E0,2026-08-29,Bournemouth,Everton,1,1
+E0,2026-08-29,Coventry,Hull,0,1
+E0,2026-08-29,Tottenham,Newcastle,0,2
+E0,2026-08-30,Chelsea,Brighton,4,3
+E0,2026-08-30,Leeds,Brentford,1,1
+E0,2026-08-30,Sunderland,Fulham,1,0
+E0,2026-08-30,Man United,Ipswich,5,2
+E0,2026-08-31,Aston Villa,Arsenal,0,1
+E0,2026-09-04,Ipswich,Liverpool,0,2
+E0,2026-09-05,Newcastle,Bournemouth,2,2
+E0,2026-09-05,Brentford,Sunderland,1,1
+E0,2026-09-05,Brighton,Leeds,1,1
+E0,2026-09-05,Fulham,Crystal Palace,2,3
+E0,2026-09-05,Man City,Coventry,1,0
+E0,2026-09-05,Nott'm Forest,Tottenham,0,0
+E0,2026-09-05,Hull,Aston Villa,0,0
+E0,2026-09-06,Everton,Man United,2,2
+E0,2026-09-06,Arsenal,Chelsea,2,1
+E0,2026-09-12,Aston Villa,Nott'm Forest,1,2
+E0,2026-09-12,Bournemouth,Brentford,2,2
+E0,2026-09-12,Chelsea,Hull,2,2
+E0,2026-09-12,Crystal Palace,Ipswich,2,3
+E0,2026-09-12,Liverpool,Fulham,0,0
+E0,2026-09-12,Tottenham,Everton,0,0
+E0,2026-09-12,Sunderland,Arsenal,0,2
+E0,2026-09-13,Coventry,Brighton,0,5
+E0,2026-09-13,Man United,Man City,0,1
+E0,2026-09-14,Leeds,Newcastle,4,1
+E0,2026-09-18,Brentford,Chelsea,3,0
+E0,2026-09-19,Tottenham,Aston Villa,2,3
+E0,2026-09-19,Brighton,Arsenal,3,0
+E0,2026-09-19,Everton,Ipswich,1,0
+E0,2026-09-19,Newcastle,Hull,2,1
+E0,2026-09-19,Nott'm Forest,Coventry,0,1
+E0,2026-09-20,Bournemouth,Liverpool,0,1
+E0,2026-09-20,Leeds,Crystal Palace,0,0
+E0,2026-09-20,Man City,Sunderland,5,3
+E0,2026-09-20,Fulham,Man United,1,1
+E0,2026-10-10,Arsenal,Leeds,2,1
+E0,2026-10-10,Aston Villa,Brentford,2,2
+E0,2026-10-10,Chelsea,Bournemouth,5,1
+E0,2026-10-10,Ipswich,Fulham,2,1
+E0,2026-10-10,Sunderland,Brighton,0,2
+E0,2026-10-10,Man United,Tottenham,1,1
+E0,2026-10-11,Crystal Palace,Nott'm Forest,3,1
+E0,2026-10-11,Hull,Everton,2,2
+E0,2026-10-11,Liverpool,Man City,0,3
+E0,2026-10-12,Coventry,Newcastle,4,1
+E0,2026-10-17,Everton,Chelsea,0,2
+E0,2026-10-17,Brentford,Liverpool,1,2
+E0,2026-10-17,Fulham,Hull,1,0
+E0,2026-10-17,Man City,Ipswich,3,2
+E0,2026-10-17,Newcastle,Aston Villa,0,1
+E0,2026-10-18,Bournemouth,Sunderland,2,0
+E0,2026-10-18,Brighton,Crystal Palace,5,0
+E0,2026-10-18,Leeds,Man United,1,1
+E0,2026-10-18,Nott'm Forest,Arsenal,0,1
+E0,2026-10-19,Tottenham,Coventry,3,1
+E0,2026-10-23,Ipswich,Nott'm Forest,1,1
+E0,2026-10-24,Aston Villa,Man City,2,1
+E0,2026-10-24,Arsenal,Everton,2,0
+E0,2026-10-24,Coventry,Fulham,0,1
+E0,2026-10-24,Chelsea,Tottenham,0,2
+E0,2026-10-25,Crystal Palace,Newcastle,0,2
+E0,2026-10-25,Hull,Brentford,1,1
+E0,2026-10-25,Liverpool,Brighton,2,0
+E0,2026-10-25,Man United,Bournemouth,0,3
+E0,2026-10-25,Sunderland,Leeds,0,0
+E1,2026-08-14,Wolves,Blackburn,2,2
+E1,2026-08-15,Bolton,Preston,2,1
+E1,2026-08-15,Bristol City,Millwall,0,2
+E1,2026-08-15,Charlton,Derby,2,1
+E1,2026-08-15,Middlesbrough,Lincoln,2,1
+E1,2026-08-15,Norwich,West Brom,1,2
+E1,2026-08-15,Portsmouth,QPR,1,3
+E1,2026-08-15,Stoke,Swansea,1,2
+E1,2026-08-15,Sheffield United,Birmingham,0,0
+E1,2026-08-16,Watford,Southampton,2,1
+E1,2026-08-16,Burnley,West Ham,2,2
+E1,2026-08-17,Cardiff,Wrexham,1,1
+E1,2026-08-22,Birmingham,Bristol City,2,2
+E1,2026-08-22,Lincoln,Portsmouth,1,3
+E1,2026-08-22,Millwall,Norwich,3,0
+E1,2026-08-22,Blackburn,Middlesbrough,2,1
+E1,2026-08-22,Derby,Cardiff,2,2
+E1,2026-08-22,Preston,Wolves,1,3
+E1,2026-08-22,QPR,Bolton,0,0
+E1,2026-08-22,Southampton,Stoke,3,1
+E1,2026-08-22,Swansea,Sheffield United,0,0
+E1,2026-08-22,West Ham,Charlton,1,2
+E1,2026-08-22,Wrexham,Watford,1,1
+E1,2026-08-23,West Brom,Burnley,3,1
+E1,2026-08-28,Wrexham,Birmingham,1,2
+E1,2026-08-29,Derby,Swansea,0,3
+E1,2026-08-29,Middlesbrough,West Brom,3,1
+E1,2026-08-29,Wolves,Stoke,4,1
+E1,2026-08-29,Blackburn,QPR,1,2
+E1,2026-08-29,Bolton,Lincoln,0,1
+E1,2026-08-29,Bristol City,Portsmouth,2,1
+E1,2026-08-29,Cardiff,Sheffield United,2,2
+E1,2026-08-29,Charlton,Preston,1,0
+E1,2026-08-29,Norwich,Burnley,4,1
+E1,2026-08-29,Southampton,Millwall,5,1
+E1,2026-08-29,Watford,West Ham,1,1
+E1,2026-09-01,Lincoln,Blackburn,0,0
+E1,2026-09-01,Portsmouth,Derby,0,2
+E1,2026-09-01,Preston,Bristol City,1,3
+E1,2026-09-01,Sheffield United,Bolton,3,2
+E1,2026-09-01,Swansea,Watford,2,0
+E1,2026-09-01,West Ham,Wolves,4,2
+E1,2026-09-01,Birmingham,Southampton,1,1
+E1,2026-09-01,Stoke,Norwich,1,0
+E1,2026-09-02,Millwall,Wrexham,0,3
+E1,2026-09-02,QPR,Cardiff,2,1
+E1,2026-09-02,West Brom,Charlton,1,1
+E1,2026-09-02,Burnley,Middlesbrough,1,1
+E1,2026-09-05,Lincoln,Southampton,1,1
+E1,2026-09-05,Preston,Blackburn,2,1
+E1,2026-09-05,Stoke,Charlton,4,0
+E1,2026-09-05,Burnley,Bristol City,1,2
+E1,2026-09-05,Millwall,Bolton,4,0
+E1,2026-09-05,Portsmouth,Cardiff,2,0
+E1,2026-09-05,QPR,Middlesbrough,0,1
+E1,2026-09-05,Sheffield United,Norwich,1,3
+E1,2026-09-05,West Brom,Watford,1,0
+E1,2026-09-05,West Ham,Derby,3,0
+E1,2026-09-05,Swansea,Wrexham,0,0
+E1,2026-09-06,Birmingham,Wolves,2,2
+E1,2026-09-08,Blackburn,Sheffield United,1,2
+E1,2026-09-08,Cardiff,Stoke,1,1
+E1,2026-09-08,Southampton,Swansea,3,1
+E1,2026-09-08,Watford,Preston,2,1
+E1,2026-09-08,Wrexham,Burnley,1,1
+E1,2026-09-08,Bolton,West Ham,2,3
+E1,2026-09-09,Derby,West Brom,0,1
+E1,2026-09-09,Norwich,Birmingham,2,1
+E1,2026-09-09,Charlton,QPR,0,0
+E1,2026-09-11,West Ham,Wrexham,6,0
+E1,2026-09-12,Bolton,Cardiff,1,0
+E1,2026-09-12,Derby,Birmingham,1,2
+E1,2026-09-12,West Brom,QPR,1,1
+E1,2026-09-12,Blackburn,Millwall,3,1
+E1,2026-09-12,Charlton,Portsmouth,0,0
+E1,2026-09-12,Middlesbrough,Norwich,4,3
+E1,2026-09-12,Preston,Lincoln,0,1
+E1,2026-09-12,Southampton,Bristol City,4,1
+E1,2026-09-12,Swansea,Burnley,3,1
+E1,2026-09-12,Watford,Stoke,1,2
+E1,2026-09-13,Sheffield United,Wolves,0,1
+E1,2026-09-15,Bristol City,Lincoln,0,1
+E1,2026-09-15,Middlesbrough,Millwall,2,2
+E1,2026-09-18,Bristol City,Watford,1,0
+E1,2026-09-19,Cardiff,Charlton,3,1
+E1,2026-09-19,Millwall,West Ham,2,2
+E1,2026-09-19,Stoke,Sheffield United,2,1
+E1,2026-09-19,Birmingham,Middlesbrough,2,2
+E1,2026-09-19,Burnley,Derby,1,1
+E1,2026-09-19,Lincoln,Swansea,1,2
+E1,2026-09-19,Portsmouth,Blackburn,2,2
+E1,2026-09-19,QPR,Preston,2,2
+E1,2026-09-19,Wrexham,Southampton,2,1
+E1,2026-09-20,Wolves,West Brom,1,0
+E1,2026-09-20,Norwich,Bolton,3,4
+E1,2026-10-09,West Ham,QPR,1,1
+E1,2026-10-10,Charlton,Bristol City,1,1
+E1,2026-10-10,Swansea,Norwich,2,1
+E1,2026-10-10,West Brom,Birmingham,0,1
+E1,2026-10-10,Blackburn,Cardiff,2,1
+E1,2026-10-10,Bolton,Stoke,1,2
+E1,2026-10-10,Derby,Wrexham,1,1
+E1,2026-10-10,Middlesbrough,Wolves,1,0
+E1,2026-10-10,Preston,Millwall,0,1
+E1,2026-10-10,Sheffield United,Lincoln,3,0
+E1,2026-10-10,Watford,Burnley,0,4
+E1,2026-10-11,Southampton,Portsmouth,1,0
+E1,2026-10-13,Bristol City,Blackburn,0,1
+E1,2026-10-13,Burnley,Charlton,2,2
+E1,2026-10-13,Cardiff,Watford,5,1
+E1,2026-10-13,Millwall,Swansea,0,1
+E1,2026-10-13,Wolves,Bolton,1,3
+E1,2026-10-13,Wrexham,West Brom,1,2
+E1,2026-10-13,Birmingham,Preston,4,0
+E1,2026-10-13,Stoke,Middlesbrough,2,3
+E1,2026-10-14,Norwich,Southampton,0,1
+E1,2026-10-14,Portsmouth,Sheffield United,3,2
+E1,2026-10-14,QPR,Derby,4,1
+E1,2026-10-14,Lincoln,West Ham,0,6
+E1,2026-10-16,Burnley,Wolves,1,2
+E1,2026-10-17,Middlesbrough,Cardiff,2,2
+E1,2026-10-17,Millwall,Lincoln,2,2
+E1,2026-10-17,Watford,Charlton,2,0
+E1,2026-10-17,Birmingham,QPR,3,0
+E1,2026-10-17,Bristol City,Sheffield United,0,1
+E1,2026-10-17,Derby,Stoke,0,1
+E1,2026-10-17,Norwich,Portsmouth,0,1
+E1,2026-10-17,Southampton,Bolton,0,0
+E1,2026-10-17,Swansea,West Ham,0,1
+E1,2026-10-17,West Brom,Blackburn,3,2
+E1,2026-10-17,Wrexham,Preston,4,1
+E1,2026-10-20,Wolves,Portsmouth,1,1
+E1,2026-10-23,Bolton,Middlesbrough,1,5
+E1,2026-10-24,Charlton,Norwich,1,3
+E1,2026-10-24,Portsmouth,Millwall,2,1
+E1,2026-10-24,Sheffield United,Derby,1,1
+E1,2026-10-24,Blackburn,Wrexham,2,0
+E1,2026-10-24,Cardiff,Birmingham,1,0
+E1,2026-10-24,Lincoln,Burnley,4,1
+E1,2026-10-24,Preston,West Brom,1,1
+E1,2026-10-24,QPR,Swansea,5,0
+E1,2026-10-24,Stoke,Bristol City,0,0
+E1,2026-10-24,West Ham,Southampton,2,3
+E1,2026-10-24,Wolves,Watford,1,0
+SP1,2026-08-15,Alaves,Getafe,3,0
+SP1,2026-08-15,Sevilla,Vallecano,2,1
+SP1,2026-08-16,Santander,Villarreal,2,2
+SP1,2026-08-16,Espanol,Levante,3,0
+SP1,2026-08-17,La Coruna,Elche,1,1
+SP1,2026-08-19,Ath Madrid,Malaga,2,0
+SP1,2026-08-20,Vallecano,Alaves,1,1
+SP1,2026-08-21,Betis,Sociedad,1,0
+SP1,2026-08-22,Ath Bilbao,Sevilla,1,3
+SP1,2026-08-22,Valencia,Celta,0,0
+SP1,2026-08-22,Espanol,Real Madrid,1,2
+SP1,2026-08-23,Ath Madrid,Villarreal,2,2
+SP1,2026-08-23,Getafe,Santander,1,0
+SP1,2026-08-23,Elche,Barcelona,0,5
+SP1,2026-08-24,Osasuna,Levante,0,0
+SP1,2026-08-24,Malaga,La Coruna,1,1
+SP1,2026-08-25,Valencia,Betis,0,1
+SP1,2026-08-26,Real Madrid,Sociedad,4,1
+SP1,2026-08-27,Celta,Osasuna,1,2
+SP1,2026-08-27,Barcelona,Ath Bilbao,2,0
+SP1,2026-08-28,Santander,Elche,3,2
+SP1,2026-08-28,Alaves,Villarreal,1,0
+SP1,2026-08-29,Levante,Betis,5,2
+SP1,2026-08-29,Sociedad,Espanol,2,1
+SP1,2026-08-29,Sevilla,Ath Madrid,1,3
+SP1,2026-08-30,Real Madrid,Malaga,4,0
+SP1,2026-08-30,La Coruna,Valencia,3,1
+SP1,2026-08-30,Celta,Ath Bilbao,0,2
+SP1,2026-08-31,Osasuna,Getafe,1,0
+SP1,2026-08-31,Barcelona,Vallecano,5,2
+SP1,2026-09-03,Sociedad,Celta,0,0
+SP1,2026-09-04,Betis,Real Madrid,1,0
+SP1,2026-09-05,Ath Bilbao,Ath Madrid,3,0
+SP1,2026-09-05,Vallecano,Santander,3,2
+SP1,2026-09-05,Villarreal,La Coruna,2,3
+SP1,2026-09-06,Valencia,Barcelona,0,5
+SP1,2026-09-06,Alaves,Osasuna,5,2
+SP1,2026-09-06,Malaga,Levante,0,0
+SP1,2026-09-06,Espanol,Sevilla,1,1
+SP1,2026-09-07,Getafe,Celta,1,1
+SP1,2026-09-07,Elche,Sociedad,2,3
+SP1,2026-09-11,Sevilla,Valencia,1,0
+SP1,2026-09-12,Santander,Alaves,2,1
+SP1,2026-09-12,Osasuna,Espanol,0,2
+SP1,2026-09-12,Ath Bilbao,Elche,1,1
+SP1,2026-09-12,Real Madrid,Vallecano,4,1
+SP1,2026-09-13,Celta,Malaga,1,1
+SP1,2026-09-13,Levante,Barcelona,2,4
+SP1,2026-09-13,Getafe,La Coruna,1,1
+SP1,2026-09-13,Sociedad,Ath Madrid,0,3
+SP1,2026-09-14,Villarreal,Betis,1,2
+SP1,2026-09-15,Vallecano,Espanol,2,1
+SP1,2026-09-15,Alaves,Valencia,0,1
+SP1,2026-09-15,Elche,Real Madrid,2,3
+SP1,2026-09-16,Ath Madrid,Osasuna,4,0
+SP1,2026-09-16,La Coruna,Sevilla,0,1
+SP1,2026-09-16,Barcelona,Santander,7,2
+SP1,2026-09-17,Betis,Getafe,1,0
+SP1,2026-09-17,Malaga,Villarreal,1,3
+SP1,2026-09-18,Espanol,Elche,1,3
+SP1,2026-09-19,Osasuna,Vallecano,1,1
+SP1,2026-09-19,Ath Bilbao,Alaves,0,0
+SP1,2026-09-19,Celta,Santander,5,0
+SP1,2026-09-19,Sevilla,Barcelona,1,3
+SP1,2026-09-20,Getafe,Malaga,1,0
+SP1,2026-09-20,Ath Madrid,Real Madrid,2,1
+SP1,2026-09-20,La Coruna,Betis,1,1
+SP1,2026-09-20,Villarreal,Levante,3,1
+SP1,2026-09-20,Valencia,Sociedad,2,3
+SP1,2026-10-09,Malaga,Espanol,1,1
+SP1,2026-10-10,Alaves,Ath Madrid,1,2
+SP1,2026-10-10,Barcelona,Getafe,3,0
+SP1,2026-10-10,Real Madrid,Villarreal,1,0
+SP1,2026-10-11,Elche,Celta,0,0
+SP1,2026-10-11,Sociedad,La Coruna,3,2
+SP1,2026-10-11,Betis,Osasuna,5,2
+SP1,2026-10-11,Santander,Valencia,2,2
+SP1,2026-10-12,Levante,Sevilla,3,3
+SP1,2026-10-16,La Coruna,Levante,1,1
+SP1,2026-10-17,Espanol,Ath Madrid,0,1
+SP1,2026-10-17,Villarreal,Elche,0,0
+SP1,2026-10-17,Betis,Barcelona,2,5
+SP1,2026-10-17,Valencia,Ath Bilbao,0,0
+SP1,2026-10-18,Osasuna,Santander,2,0
+SP1,2026-10-18,Celta,Alaves,2,1
+SP1,2026-10-18,Malaga,Sociedad,2,5
+SP1,2026-10-18,Real Madrid,Sevilla,4,1
+SP1,2026-10-19,Getafe,Vallecano,1,1
+SP1,2026-10-21,Levante,Ath Bilbao,3,1
+SP1,2026-10-23,Alaves,Malaga,1,1
+SP1,2026-10-24,Vallecano,Elche,0,3
+SP1,2026-10-24,Santander,Espanol,2,1
+SP1,2026-10-24,Valencia,Villarreal,1,2
+SP1,2026-10-24,Ath Madrid,La Coruna,1,0
+SP1,2026-10-25,Ath Bilbao,Getafe,4,0
+SP1,2026-10-25,Celta,Betis,0,0
+SP1,2026-10-25,Sociedad,Levante,2,1
+SP1,2026-10-25,Barcelona,Real Madrid,1,2
+SP1,2026-10-26,Sevilla,Osasuna,2,0
+I1,2026-08-22,Inter,Monza,4,1
+I1,2026-08-22,Udinese,Como,1,1
+I1,2026-08-22,Genoa,Napoli,0,2
+I1,2026-08-22,Parma,Cagliari,0,1
+I1,2026-08-23,Frosinone,Juventus,0,1
+I1,2026-08-23,Venezia,Lecce,0,2
+I1,2026-08-23,Atalanta,Sassuolo,2,1
+I1,2026-08-23,Torino,Milan,1,2
+I1,2026-08-24,Bologna,Lazio,0,1
+I1,2026-08-24,Roma,Fiorentina,4,0
+I1,2026-08-28,Milan,Venezia,2,0
+I1,2026-08-29,Fiorentina,Frosinone,0,3
+I1,2026-08-29,Monza,Udinese,2,3
+I1,2026-08-29,Sassuolo,Torino,2,1
+I1,2026-08-29,Juventus,Parma,2,0
+I1,2026-08-30,Napoli,Como,1,2
+I1,2026-08-30,Cagliari,Inter,0,1
+I1,2026-08-30,Lazio,Genoa,1,0
+I1,2026-08-31,Lecce,Roma,0,4
+I1,2026-08-31,Atalanta,Bologna,1,0
+I1,2026-09-04,Genoa,Como,1,4
+I1,2026-09-05,Fiorentina,Torino,1,2
+I1,2026-09-05,Inter,Napoli,3,2
+I1,2026-09-05,Roma,Atalanta,2,1
+I1,2026-09-06,Frosinone,Venezia,3,2
+I1,2026-09-06,Parma,Monza,1,1
+I1,2026-09-06,Bologna,Sassuolo,2,2
+I1,2026-09-06,Juventus,Milan,1,1
+I1,2026-09-07,Cagliari,Lecce,1,0
+I1,2026-09-07,Udinese,Lazio,1,2
+I1,2026-09-11,Venezia,Fiorentina,2,4
+I1,2026-09-12,Genoa,Frosinone,1,1
+I1,2026-09-12,Lazio,Milan,2,2
+I1,2026-09-12,Atalanta,Cagliari,1,2
+I1,2026-09-13,Lecce,Monza,3,2
+I1,2026-09-13,Napoli,Bologna,1,0
+I1,2026-09-13,Sassuolo,Juventus,3,2
+I1,2026-09-14,Como,Parma,2,1
+I1,2026-09-14,Torino,Roma,0,2
+I1,2026-09-14,Inter,Udinese,5,3
+I1,2026-09-18,Monza,Sassuolo,2,1
+I1,2026-09-19,Bologna,Torino,1,1
+I1,2026-09-19,Udinese,Cagliari,0,1
+I1,2026-09-19,Roma,Inter,2,2
+I1,2026-09-19,Venezia,Lazio,0,2
+I1,2026-09-20,Fiorentina,Napoli,1,1
+I1,2026-09-20,Frosinone,Como,2,0
+I1,2026-09-20,Parma,Genoa,2,1
+I1,2026-09-20,Juventus,Atalanta,2,0
+I1,2026-09-20,Milan,Lecce,3,0
+I1,2026-10-10,Genoa,Fiorentina,2,1
+I1,2026-10-10,Inter,Parma,3,0
+I1,2026-10-10,Napoli,Frosinone,3,0
+I1,2026-10-11,Como,Roma,0,0
+I1,2026-10-11,Lazio,Monza,3,1
+I1,2026-10-11,Lecce,Bologna,1,2
+I1,2026-10-11,Sassuolo,Milan,1,1
+I1,2026-10-11,Cagliari,Juventus,1,1
+I1,2026-10-12,Atalanta,Venezia,3,1
+I1,2026-10-12,Torino,Udinese,2,1
+I1,2026-10-16,Frosinone,Sassuolo,4,2
+I1,2026-10-17,Venezia,Napoli,1,0
+I1,2026-10-17,Bologna,Inter,1,3
+I1,2026-10-17,Roma,Genoa,2,0
+I1,2026-10-18,Udinese,Lecce,0,3
+I1,2026-10-18,Fiorentina,Como,1,3
+I1,2026-10-18,Milan,Atalanta,3,2
+I1,2026-10-18,Juventus,Lazio,0,3
+I1,2026-10-19,Monza,Cagliari,4,0
+I1,2026-10-19,Parma,Torino,0,3
+I1,2026-10-23,Torino,Monza,3,2
+I1,2026-10-24,Cagliari,Bologna,0,2
+I1,2026-10-24,Como,Sassuolo,2,0
+I1,2026-10-24,Napoli,Roma,3,3
+I1,2026-10-24,Lazio,Parma,2,1
+I1,2026-10-25,Inter,Fiorentina,2,1
+I1,2026-10-25,Atalanta,Frosinone,4,4
+I1,2026-10-25,Genoa,Venezia,1,0
+I1,2026-10-25,Lecce,Juventus,0,2
+I1,2026-10-25,Udinese,Milan,0,2
+F1,2026-08-21,Marseille,Strasbourg,4,0
+F1,2026-08-22,Lens,Auxerre,5,2
+F1,2026-08-22,Le Mans,Brest,2,2
+F1,2026-08-22,Nice,Lorient,0,0
+F1,2026-08-22,Toulouse,Lyon,0,2
+F1,2026-08-22,Troyes,Paris FC,0,0
+F1,2026-08-23,Angers,Lille,0,2
+F1,2026-08-23,Le Havre,Monaco,0,1
+F1,2026-08-23,Rennes,Paris SG,2,2
+F1,2026-08-28,Lille,Paris SG,2,2
+F1,2026-08-29,Strasbourg,Lens,2,1
+F1,2026-08-29,Auxerre,Angers,1,3
+F1,2026-08-29,Brest,Toulouse,2,2
+F1,2026-08-29,Lorient,Troyes,1,2
+F1,2026-08-29,Lyon,Le Havre,1,1
+F1,2026-08-30,Paris FC,Nice,3,0
+F1,2026-08-30,Rennes,Le Mans,3,2
+F1,2026-08-30,Monaco,Marseille,2,0
+F1,2026-09-03,Toulouse,Lille,0,1
+F1,2026-09-04,Lyon,Auxerre,3,1
+F1,2026-09-04,Paris SG,Monaco,1,2
+F1,2026-09-05,Lens,Lorient,0,1
+F1,2026-09-05,Le Havre,Brest,1,2
+F1,2026-09-05,Nice,Le Mans,1,1
+F1,2026-09-06,Troyes,Strasbourg,2,6
+F1,2026-09-06,Angers,Rennes,1,2
+F1,2026-09-06,Marseille,Paris FC,2,3
+F1,2026-09-11,Rennes,Marseille,1,0
+F1,2026-09-12,Strasbourg,Monaco,1,1
+F1,2026-09-12,Auxerre,Nice,1,0
+F1,2026-09-12,Le Havre,Angers,0,0
+F1,2026-09-12,Lorient,Toulouse,2,2
+F1,2026-09-12,Paris FC,Lyon,0,0
+F1,2026-09-13,Lille,Troyes,2,0
+F1,2026-09-13,Le Mans,Lens,2,2
+F1,2026-09-13,Brest,Paris SG,0,1
+F1,2026-09-18,Monaco,Lens,2,1
+F1,2026-09-19,Paris FC,Strasbourg,2,1
+F1,2026-09-19,Angers,Troyes,2,0
+F1,2026-09-19,Le Mans,Lorient,2,1
+F1,2026-09-19,Lyon,Rennes,4,0
+F1,2026-09-19,Toulouse,Le Havre,3,2
+F1,2026-09-20,Auxerre,Brest,2,1
+F1,2026-09-20,Nice,Lille,2,1
+F1,2026-09-20,Marseille,Paris SG,1,2
+F1,2026-10-09,Lens,Lyon,2,1
+F1,2026-10-10,Lille,Le Havre,1,0
+F1,2026-10-10,Brest,Angers,5,1
+F1,2026-10-10,Lorient,Paris FC,1,0
+F1,2026-10-10,Monaco,Toulouse,2,2
+F1,2026-10-10,Paris SG,Le Mans,3,1
+F1,2026-10-11,Nice,Strasbourg,2,1
+F1,2026-10-11,Rennes,Auxerre,4,1
+F1,2026-10-11,Troyes,Marseille,0,2
+F1,2026-10-16,Le Mans,Toulouse,0,3
+F1,2026-10-17,Strasbourg,Paris SG,1,3
+F1,2026-10-17,Lille,Brest,1,1
+F1,2026-10-17,Troyes,Lens,1,3
+F1,2026-10-18,Angers,Marseille,2,5
+F1,2026-10-18,Le Havre,Auxerre,1,3
+F1,2026-10-18,Lorient,Monaco,1,0
+F1,2026-10-18,Paris FC,Rennes,4,3
+F1,2026-10-18,Lyon,Nice,2,1
+F1,2026-10-23,Brest,Nice,1,2
+F1,2026-10-24,Lens,Paris FC,2,1
+F1,2026-10-25,Monaco,Lille,1,1
+F1,2026-10-25,Angers,Lorient,0,0
+F1,2026-10-25,Auxerre,Le Mans,1,1
+F1,2026-10-25,Marseille,Le Havre,4,3
+F1,2026-10-25,Rennes,Strasbourg,3,0
+F1,2026-10-25,Toulouse,Troyes,0,0
+F1,2026-10-26,Paris SG,Lyon,2,0
+D1,2026-08-28,Bayern Munich,Stuttgart,5,1
+D1,2026-08-29,Elversberg,Leverkusen,3,2
+D1,2026-08-29,FC Koln,Hoffenheim,3,2
+D1,2026-08-29,Mainz,Paderborn,0,0
+D1,2026-08-29,RB Leipzig,M'gladbach,3,0
+D1,2026-08-29,Union Berlin,Ein Frankfurt,3,3
+D1,2026-08-29,Dortmund,Hamburg,2,0
+D1,2026-08-30,Freiburg,Werder Bremen,4,1
+D1,2026-08-30,Augsburg,Schalke 04,3,0
+D1,2026-09-04,Stuttgart,FC Koln,4,1
+D1,2026-09-05,Hoffenheim,Dortmund,2,3
+D1,2026-09-05,Leverkusen,Union Berlin,4,0
+D1,2026-09-05,M'gladbach,Elversberg,3,4
+D1,2026-09-05,Paderborn,Freiburg,0,1
+D1,2026-09-05,Werder Bremen,RB Leipzig,3,1
+D1,2026-09-05,Schalke 04,Bayern Munich,0,0
+D1,2026-09-06,Hamburg,Mainz,0,5
+D1,2026-09-06,Ein Frankfurt,Augsburg,1,4
+D1,2026-09-11,Union Berlin,Schalke 04,1,3
+D1,2026-09-12,Augsburg,Leverkusen,2,2
+D1,2026-09-12,Dortmund,Paderborn,3,0
+D1,2026-09-12,Freiburg,M'gladbach,5,0
+D1,2026-09-12,Hoffenheim,Stuttgart,2,1
+D1,2026-09-12,Mainz,Ein Frankfurt,1,3
+D1,2026-09-12,FC Koln,Werder Bremen,1,1
+D1,2026-09-13,RB Leipzig,Hamburg,5,0
+D1,2026-09-13,Elversberg,Bayern Munich,1,2
+D1,2026-09-18,Bayern Munich,Union Berlin,7,0
+D1,2026-09-19,Ein Frankfurt,Freiburg,2,2
+D1,2026-09-19,Hamburg,FC Koln,2,1
+D1,2026-09-19,M'gladbach,Mainz,3,4
+D1,2026-09-19,Werder Bremen,Augsburg,3,2
+D1,2026-09-19,Stuttgart,Dortmund,0,1
+D1,2026-09-20,Leverkusen,RB Leipzig,2,0
+D1,2026-09-20,Schalke 04,Elversberg,0,0
+D1,2026-09-20,Paderborn,Hoffenheim,3,1
+D1,2026-10-09,Dortmund,Werder Bremen,2,2
+D1,2026-10-10,Augsburg,Bayern Munich,2,2
+D1,2026-10-10,Hoffenheim,Hamburg,2,3
+D1,2026-10-10,Mainz,Leverkusen,3,4
+D1,2026-10-10,Paderborn,Stuttgart,0,2
+D1,2026-10-10,Union Berlin,Elversberg,1,0
+D1,2026-10-10,RB Leipzig,Ein Frankfurt,6,0
+D1,2026-10-11,FC Koln,M'gladbach,2,1
+D1,2026-10-11,Freiburg,Schalke 04,2,1
+D1,2026-10-16,Ein Frankfurt,FC Koln,1,0
+D1,2026-10-17,Elversberg,Augsburg,4,3
+D1,2026-10-17,Hamburg,Stuttgart,1,0
+D1,2026-10-17,Schalke 04,Mainz,0,1
+D1,2026-10-17,Union Berlin,Dortmund,0,0
+D1,2026-10-17,Werder Bremen,Paderborn,2,2
+D1,2026-10-17,Bayern Munich,RB Leipzig,6,1
+D1,2026-10-18,Leverkusen,Freiburg,2,1
+D1,2026-10-18,M'gladbach,Hoffenheim,1,2
+D1,2026-10-23,Stuttgart,M'gladbach,2,3
+D1,2026-10-24,Augsburg,Union Berlin,1,1
+D1,2026-10-24,FC Koln,Schalke 04,0,0
+D1,2026-10-24,Mainz,Werder Bremen,2,3
+D1,2026-10-24,Paderborn,Hamburg,1,0
+D1,2026-10-24,RB Leipzig,Elversberg,4,0
+D1,2026-10-24,Dortmund,Ein Frankfurt,1,0
+D1,2026-10-25,Hoffenheim,Leverkusen,3,0
+D1,2026-10-25,Freiburg,Bayern Munich,1,3
+E2,2026-08-15,Notts County,Leicester,1,1
+E2,2026-08-15,Oxford,Milton Keynes Dons,2,2
+E2,2026-08-15,Reading,Luton,3,4
+E2,2026-08-15,Barnsley,Bromley,0,1
+E2,2026-08-15,Blackpool,Wycombe,1,1
+E2,2026-08-15,Bradford,Peterboro,2,0
+E2,2026-08-15,Burton,Stevenage,1,1
+E2,2026-08-15,Cambridge,Wigan,3,2
+E2,2026-08-15,Huddersfield,AFC Wimbledon,3,0
+E2,2026-08-15,Leyton Orient,Sheffield Weds,1,2
+E2,2026-08-15,Mansfield,Doncaster,2,1
+E2,2026-08-15,Plymouth,Stockport,1,3
+E2,2026-08-20,Sheffield Weds,Bradford,0,1
+E2,2026-08-22,Doncaster,Barnsley,0,0
+E2,2026-08-22,Luton,Notts County,2,2
+E2,2026-08-22,AFC Wimbledon,Reading,0,0
+E2,2026-08-22,Bromley,Cambridge,1,1
+E2,2026-08-22,Leicester,Burton,1,2
+E2,2026-08-22,Milton Keynes Dons,Huddersfield,1,1
+E2,2026-08-22,Peterboro,Mansfield,2,1
+E2,2026-08-22,Stevenage,Oxford,1,2
+E2,2026-08-22,Stockport,Blackpool,1,2
+E2,2026-08-22,Wigan,Leyton Orient,0,2
+E2,2026-08-22,Wycombe,Plymouth,1,1
+E2,2026-08-29,Blackpool,Peterboro,4,0
+E2,2026-08-29,Milton Keynes Dons,Leicester,0,0
+E2,2026-08-29,Cambridge,Huddersfield,1,2
+E2,2026-08-29,Leyton Orient,Barnsley,1,3
+E2,2026-08-29,Notts County,Burton,2,1
+E2,2026-08-29,Plymouth,Bradford,2,0
+E2,2026-08-29,Sheffield Weds,Bromley,7,2
+E2,2026-08-29,Stevenage,Doncaster,2,2
+E2,2026-08-29,Stockport,Wycombe,5,1
+E2,2026-08-30,AFC Wimbledon,Wigan,1,0
+E2,2026-08-30,Mansfield,Luton,5,2
+E2,2026-09-01,Bradford,Cambridge,1,2
+E2,2026-09-01,Bromley,Leyton Orient,0,5
+E2,2026-09-01,Doncaster,Notts County,1,1
+E2,2026-09-01,Huddersfield,Oxford,3,1
+E2,2026-09-01,Leicester,Plymouth,2,0
+E2,2026-09-01,Peterboro,Stevenage,0,0
+E2,2026-09-01,Wycombe,Sheffield Weds,1,2
+E2,2026-09-02,Barnsley,Blackpool,2,1
+E2,2026-09-02,Burton,AFC Wimbledon,4,1
+E2,2026-09-02,Luton,Stockport,2,0
+E2,2026-09-02,Wigan,Milton Keynes Dons,3,1
+E2,2026-09-02,Reading,Mansfield,5,0
+E2,2026-09-05,Peterboro,Sheffield Weds,1,2
+E2,2026-09-05,Wigan,Stockport,0,4
+E2,2026-09-05,Barnsley,Stevenage,1,5
+E2,2026-09-05,Bradford,Mansfield,1,0
+E2,2026-09-05,Burton,Cambridge,2,2
+E2,2026-09-05,Doncaster,Plymouth,2,3
+E2,2026-09-05,Huddersfield,Notts County,1,1
+E2,2026-09-05,Leicester,Oxford,0,4
+E2,2026-09-05,Luton,Leyton Orient,1,1
+E2,2026-09-05,Reading,Blackpool,3,1
+E2,2026-09-05,Wycombe,Milton Keynes Dons,3,3
+E2,2026-09-07,Bromley,AFC Wimbledon,0,2
+E2,2026-09-10,Stevenage,Luton,2,1
+E2,2026-09-12,Leyton Orient,Wycombe,2,3
+E2,2026-09-12,Notts County,Bradford,0,1
+E2,2026-09-12,AFC Wimbledon,Doncaster,1,0
+E2,2026-09-12,Blackpool,Bromley,2,2
+E2,2026-09-12,Cambridge,Reading,2,1
+E2,2026-09-12,Mansfield,Huddersfield,0,0
+E2,2026-09-12,Milton Keynes Dons,Peterboro,1,1
+E2,2026-09-12,Oxford,Burton,3,0
+E2,2026-09-12,Plymouth,Barnsley,3,0
+E2,2026-09-12,Sheffield Weds,Wigan,0,0
+E2,2026-09-12,Stockport,Leicester,3,4
+E2,2026-09-17,AFC Wimbledon,Milton Keynes Dons,0,0
+E2,2026-09-19,Barnsley,Leicester,1,1
+E2,2026-09-19,Burton,Mansfield,2,2
+E2,2026-09-19,Blackpool,Plymouth,2,4
+E2,2026-09-19,Bromley,Huddersfield,2,1
+E2,2026-09-19,Leyton Orient,Stevenage,1,0
+E2,2026-09-19,Luton,Bradford,0,1
+E2,2026-09-19,Oxford,Cambridge,1,1
+E2,2026-09-19,Peterboro,Doncaster,0,2
+E2,2026-09-19,Reading,Notts County,2,0
+E2,2026-09-19,Sheffield Weds,Stockport,0,0
+E2,2026-09-19,Wigan,Wycombe,0,1
+E2,2026-09-26,Cambridge,AFC Wimbledon,1,1
+E2,2026-09-26,Plymouth,Burton,0,1
+E2,2026-09-26,Stockport,Peterboro,1,0
+E2,2026-09-26,Wycombe,Reading,2,2
+E2,2026-10-03,Burton,Huddersfield,1,3
+E2,2026-10-03,Leyton Orient,Plymouth,0,2
+E2,2026-10-03,Reading,Bradford,1,1
+E2,2026-10-10,Notts County,Oxford,1,2
+E2,2026-10-10,Plymouth,AFC Wimbledon,2,1
+E2,2026-10-10,Bradford,Leyton Orient,0,0
+E2,2026-10-10,Cambridge,Blackpool,1,0
+E2,2026-10-10,Doncaster,Burton,1,0
+E2,2026-10-10,Huddersfield,Sheffield Weds,2,2
+E2,2026-10-10,Leicester,Peterboro,1,3
+E2,2026-10-10,Mansfield,Bromley,2,1
+E2,2026-10-10,Milton Keynes Dons,Reading,1,5
+E2,2026-10-10,Stevenage,Wigan,1,0
+E2,2026-10-10,Stockport,Barnsley,3,1
+E2,2026-10-10,Wycombe,Luton,1,4
+E2,2026-10-15,Mansfield,Oxford,1,1
+E2,2026-10-17,Milton Keynes Dons,Luton,2,1
+E2,2026-10-17,Peterboro,Burton,2,2
+E2,2026-10-17,Barnsley,Cambridge,1,2
+E2,2026-10-17,Bradford,Stevenage,2,0
+E2,2026-10-17,Leicester,Doncaster,2,1
+E2,2026-10-17,Leyton Orient,Blackpool,2,0
+E2,2026-10-17,Plymouth,Huddersfield,0,2
+E2,2026-10-17,Sheffield Weds,AFC Wimbledon,5,0
+E2,2026-10-17,Stockport,Bromley,1,0
+E2,2026-10-17,Wigan,Reading,1,0
+E2,2026-10-17,Wycombe,Notts County,2,0
+E2,2026-10-20,AFC Wimbledon,Mansfield,0,3
+E2,2026-10-20,Blackpool,Milton Keynes Dons,2,0
+E2,2026-10-20,Bromley,Leicester,0,4
+E2,2026-10-20,Burton,Bradford,0,0
+E2,2026-10-20,Cambridge,Wycombe,2,2
+E2,2026-10-20,Doncaster,Stockport,0,2
+E2,2026-10-20,Huddersfield,Peterboro,4,1
+E2,2026-10-20,Luton,Barnsley,2,1
+E2,2026-10-20,Notts County,Sheffield Weds,2,0
+E2,2026-10-20,Oxford,Wigan,2,1
+E2,2026-10-20,Stevenage,Plymouth,3,0
+E2,2026-10-21,Reading,Leyton Orient,1,0
+E2,2026-10-24,Huddersfield,Wigan,2,1
+E2,2026-10-24,Luton,Leicester,2,1
+E2,2026-10-24,AFC Wimbledon,Wycombe,1,1
+E2,2026-10-24,Blackpool,Mansfield,1,4
+E2,2026-10-24,Bromley,Peterboro,1,1
+E2,2026-10-24,Burton,Leyton Orient,2,1
+E2,2026-10-24,Cambridge,Plymouth,2,3
+E2,2026-10-24,Doncaster,Sheffield Weds,2,0
+E2,2026-10-24,Notts County,Stockport,1,1
+E2,2026-10-24,Oxford,Bradford,0,0
+E2,2026-10-24,Reading,Barnsley,2,1
+E2,2026-10-24,Stevenage,Milton Keynes Dons,0,1
+E3,2026-08-15,Newport County,Rochdale,3,0
+E3,2026-08-15,Oldham,Port Vale,2,0
+E3,2026-08-15,Accrington,Colchester,2,2
+E3,2026-08-15,Barnet,Salford,3,1
+E3,2026-08-15,Cheltenham,Rotherham,2,1
+E3,2026-08-15,Chesterfield,Fleetwood Town,0,1
+E3,2026-08-15,Crawley Town,Crewe,0,1
+E3,2026-08-15,Gillingham,Walsall,0,3
+E3,2026-08-15,Grimsby,Exeter,1,0
+E3,2026-08-15,Northampton,Swindon,0,0
+E3,2026-08-15,Tranmere,Shrewsbury,2,0
+E3,2026-08-15,York,Bristol Rvs,3,2
+E3,2026-08-22,Bristol Rvs,Newport County,5,3
+E3,2026-08-22,Salford,Chesterfield,0,1
+E3,2026-08-22,Walsall,Grimsby,0,0
+E3,2026-08-22,Colchester,Oldham,2,1
+E3,2026-08-22,Crewe,Northampton,1,0
+E3,2026-08-22,Exeter,Accrington,2,0
+E3,2026-08-22,Fleetwood Town,Gillingham,0,0
+E3,2026-08-22,Port Vale,Tranmere,1,1
+E3,2026-08-22,Rochdale,Crawley Town,1,2
+E3,2026-08-22,Rotherham,York,1,1
+E3,2026-08-22,Shrewsbury,Barnet,1,3
+E3,2026-08-22,Swindon,Cheltenham,2,1
+E3,2026-08-29,Barnet,Cheltenham,2,2
+E3,2026-08-29,Port Vale,Crewe,0,0
+E3,2026-08-29,Rotherham,Chesterfield,2,1
+E3,2026-08-29,Colchester,Rochdale,1,0
+E3,2026-08-29,Crawley Town,Bristol Rvs,0,2
+E3,2026-08-29,Gillingham,Northampton,1,1
+E3,2026-08-29,Grimsby,Fleetwood Town,2,2
+E3,2026-08-29,Newport County,Tranmere,2,2
+E3,2026-08-29,Oldham,Swindon,3,0
+E3,2026-08-29,Shrewsbury,Salford,1,0
+E3,2026-08-29,Walsall,Accrington,3,2
+E3,2026-08-29,York,Exeter,2,1
+E3,2026-09-01,Accrington,Grimsby,2,2
+E3,2026-09-01,Bristol Rvs,Colchester,2,0
+E3,2026-09-01,Cheltenham,York,3,2
+E3,2026-09-01,Chesterfield,Gillingham,1,1
+E3,2026-09-01,Crewe,Walsall,2,2
+E3,2026-09-01,Exeter,Barnet,1,1
+E3,2026-09-01,Fleetwood Town,Oldham,1,1
+E3,2026-09-01,Northampton,Crawley Town,1,1
+E3,2026-09-01,Rochdale,Shrewsbury,3,0
+E3,2026-09-01,Salford,Newport County,2,1
+E3,2026-09-01,Swindon,Port Vale,3,1
+E3,2026-09-01,Tranmere,Rotherham,2,2
+E3,2026-09-05,Fleetwood Town,Shrewsbury,2,0
+E3,2026-09-05,Salford,Port Vale,1,0
+E3,2026-09-05,Accrington,Crawley Town,3,2
+E3,2026-09-05,Bristol Rvs,Rotherham,1,0
+E3,2026-09-05,Cheltenham,Grimsby,2,2
+E3,2026-09-05,Chesterfield,Barnet,3,3
+E3,2026-09-05,Crewe,York,1,1
+E3,2026-09-05,Exeter,Walsall,0,0
+E3,2026-09-05,Northampton,Newport County,1,0
+E3,2026-09-05,Rochdale,Gillingham,1,4
+E3,2026-09-05,Swindon,Colchester,3,1
+E3,2026-09-05,Tranmere,Oldham,2,0
+E3,2026-09-12,Crawley Town,Cheltenham,1,3
+E3,2026-09-12,Grimsby,Bristol Rvs,2,0
+E3,2026-09-12,Barnet,Accrington,2,1
+E3,2026-09-12,Colchester,Crewe,1,1
+E3,2026-09-12,Gillingham,Tranmere,2,0
+E3,2026-09-12,Newport County,Fleetwood Town,1,1
+E3,2026-09-12,Oldham,Chesterfield,1,2
+E3,2026-09-12,Port Vale,Exeter,1,0
+E3,2026-09-12,Rotherham,Salford,3,3
+E3,2026-09-12,Shrewsbury,Northampton,2,0
+E3,2026-09-12,Walsall,Rochdale,0,0
+E3,2026-09-12,York,Swindon,4,0
+E3,2026-09-19,Rochdale,Oldham,2,0
+E3,2026-09-19,Walsall,Port Vale,2,0
+E3,2026-09-19,Accrington,Newport County,0,0
+E3,2026-09-19,Barnet,Fleetwood Town,3,1
+E3,2026-09-19,Chesterfield,York,2,0
+E3,2026-09-19,Colchester,Cheltenham,1,1
+E3,2026-09-19,Crewe,Shrewsbury,1,1
+E3,2026-09-19,Exeter,Tranmere,0,0
+E3,2026-09-19,Gillingham,Bristol Rvs,3,0
+E3,2026-09-19,Grimsby,Crawley Town,2,0
+E3,2026-09-19,Northampton,Rotherham,0,1
+E3,2026-09-19,Salford,Swindon,1,0
+E3,2026-09-26,Bristol Rvs,Exeter,1,0
+E3,2026-09-26,Cheltenham,Chesterfield,2,1
+E3,2026-09-26,Fleetwood Town,Rochdale,1,2
+E3,2026-09-26,Newport County,Grimsby,2,1
+E3,2026-09-26,Rotherham,Crewe,1,1
+E3,2026-09-26,Shrewsbury,Colchester,2,2
+E3,2026-09-26,Swindon,Accrington,1,1
+E3,2026-09-26,Tranmere,Walsall,1,1
+E3,2026-09-26,York,Gillingham,3,0
+E3,2026-09-26,Oldham,Salford,1,4
+E3,2026-10-03,Chesterfield,Tranmere,4,2
+E3,2026-10-03,Accrington,Cheltenham,2,0
+E3,2026-10-03,Crewe,Bristol Rvs,3,1
+E3,2026-10-03,Exeter,Rotherham,1,0
+E3,2026-10-03,Gillingham,Newport County,0,0
+E3,2026-10-03,Grimsby,Shrewsbury,1,2
+E3,2026-10-03,Rochdale,Swindon,1,0
+E3,2026-10-03,Salford,Fleetwood Town,1,0
+E3,2026-10-10,Oldham,Accrington,0,0
+E3,2026-10-10,Swindon,Crewe,0,1
+E3,2026-10-10,Bristol Rvs,Barnet,1,3
+E3,2026-10-10,Cheltenham,Salford,0,2
+E3,2026-10-10,Crawley Town,Chesterfield,2,2
+E3,2026-10-10,Fleetwood Town,Walsall,1,1
+E3,2026-10-10,Newport County,Colchester,1,0
+E3,2026-10-10,Port Vale,Grimsby,1,0
+E3,2026-10-10,Rotherham,Gillingham,1,4
+E3,2026-10-10,Shrewsbury,Exeter,0,1
+E3,2026-10-10,Tranmere,Rochdale,1,1
+E3,2026-10-10,York,Northampton,1,1
+E3,2026-10-17,Fleetwood Town,Rotherham,2,0
+E3,2026-10-17,Shrewsbury,Bristol Rvs,1,0
+E3,2026-10-17,Accrington,Gillingham,3,1
+E3,2026-10-17,Colchester,Exeter,0,0
+E3,2026-10-17,Crewe,Rochdale,3,2
+E3,2026-10-17,Grimsby,Northampton,0,2
+E3,2026-10-17,Newport County,York,1,1
+E3,2026-10-17,Oldham,Cheltenham,4,1
+E3,2026-10-17,Port Vale,Chesterfield,1,0
+E3,2026-10-17,Salford,Crawley Town,2,1
+E3,2026-10-17,Swindon,Walsall,1,1
+E3,2026-10-17,Tranmere,Barnet,1,2
+E3,2026-10-20,Barnet,Swindon,1,3
+E3,2026-10-20,Bristol Rvs,Salford,1,2
+E3,2026-10-20,Cheltenham,Fleetwood Town,4,2
+E3,2026-10-20,Chesterfield,Colchester,1,1
+E3,2026-10-20,Crawley Town,Shrewsbury,2,3
+E3,2026-10-20,Exeter,Crewe,2,0
+E3,2026-10-20,Northampton,Tranmere,0,1
+E3,2026-10-20,Rochdale,Grimsby,2,2
+E3,2026-10-20,Rotherham,Newport County,2,2
+E3,2026-10-20,Walsall,Oldham,3,0
+E3,2026-10-20,York,Accrington,1,1
+E3,2026-10-20,Gillingham,Port Vale,1,1
+E3,2026-10-24,Bristol Rvs,Swindon,0,0
+E3,2026-10-24,Cheltenham,Newport County,1,0
+E3,2026-10-24,Northampton,Colchester,2,0
+E3,2026-10-24,Barnet,Oldham,1,1
+E3,2026-10-24,Chesterfield,Crewe,5,1
+E3,2026-10-24,Crawley Town,Tranmere,1,1
+E3,2026-10-24,Exeter,Fleetwood Town,2,1
+E3,2026-10-24,Gillingham,Grimsby,1,4
+E3,2026-10-24,Rochdale,Accrington,0,5
+E3,2026-10-24,Rotherham,Shrewsbury,3,3
+E3,2026-10-24,York,Port Vale,2,0
+E3,2026-10-26,Walsall,Salford,2,4
+EC,2026-08-08,Altrincham,Southend,1,3
+EC,2026-08-08,Boreham Wood,Tamworth,3,3
+EC,2026-08-08,Boston Utd,Aldershot,0,1
+EC,2026-08-08,Carlisle,Worthing,2,3
+EC,2026-08-08,Eastleigh,Gateshead,2,1
+EC,2026-08-08,Forest Green,Halifax,3,2
+EC,2026-08-08,Fylde,Wealdstone,2,2
+EC,2026-08-08,Harrogate,Solihull,5,2
+EC,2026-08-08,Hartlepool,Barrow,2,0
+EC,2026-08-08,Hornchurch,Kidderminster,3,0
+EC,2026-08-08,Scunthorpe,Yeovil,1,1
+EC,2026-08-08,Woking,Sutton,0,3
+EC,2026-08-15,Aldershot,Hartlepool,0,1
+EC,2026-08-15,Barrow,Hornchurch,1,2
+EC,2026-08-15,Gateshead,Woking,2,0
+EC,2026-08-15,Halifax,Boreham Wood,1,3
+EC,2026-08-15,Kidderminster,Eastleigh,1,0
+EC,2026-08-15,Solihull,Boston Utd,0,2
+EC,2026-08-15,Southend,Scunthorpe,1,0
+EC,2026-08-15,Sutton,Altrincham,1,0
+EC,2026-08-15,Tamworth,Fylde,1,2
+EC,2026-08-15,Wealdstone,Harrogate,1,3
+EC,2026-08-15,Worthing,Forest Green,1,2
+EC,2026-08-15,Yeovil,Carlisle,1,1
+EC,2026-08-22,Boston Utd,Altrincham,1,0
+EC,2026-08-22,Carlisle,Hornchurch,4,1
+EC,2026-08-22,Eastleigh,Scunthorpe,3,2
+EC,2026-08-22,Forest Green,Boreham Wood,0,3
+EC,2026-08-22,Halifax,Tamworth,4,1
+EC,2026-08-22,Harrogate,Barrow,2,2
+EC,2026-08-22,Kidderminster,Aldershot,1,1
+EC,2026-08-22,Solihull,Southend,1,3
+EC,2026-08-22,Sutton,Hartlepool,2,1
+EC,2026-08-22,Woking,Fylde,3,2
+EC,2026-08-22,Worthing,Wealdstone,1,0
+EC,2026-08-22,Yeovil,Gateshead,3,0
+EC,2026-08-27,Boreham Wood,Boston Utd,2,1
+EC,2026-08-28,Aldershot,Harrogate,3,1
+EC,2026-08-28,Altrincham,Halifax,2,1
+EC,2026-08-28,Barrow,Yeovil,1,2
+EC,2026-08-28,Fylde,Forest Green,2,0
+EC,2026-08-28,Gateshead,Sutton,0,1
+EC,2026-08-28,Hartlepool,Eastleigh,0,1
+EC,2026-08-28,Hornchurch,Woking,1,0
+EC,2026-08-28,Scunthorpe,Solihull,3,1
+EC,2026-08-28,Southend,Kidderminster,1,3
+EC,2026-08-28,Tamworth,Worthing,3,2
+EC,2026-08-28,Wealdstone,Carlisle,1,1
+EC,2026-08-31,Boston Utd,Hornchurch,2,3
+EC,2026-08-31,Carlisle,Scunthorpe,4,2
+EC,2026-08-31,Eastleigh,Aldershot,1,1
+EC,2026-08-31,Forest Green,Altrincham,1,2
+EC,2026-08-31,Harrogate,Gateshead,2,1
+EC,2026-08-31,Kidderminster,Barrow,1,1
+EC,2026-08-31,Solihull,Fylde,1,3
+EC,2026-08-31,Sutton,Wealdstone,0,2
+EC,2026-08-31,Woking,Southend,1,1
+EC,2026-08-31,Worthing,Boreham Wood,2,3
+EC,2026-08-31,Yeovil,Tamworth,3,2
+EC,2026-09-01,Halifax,Hartlepool,1,0
+EC,2026-09-04,Altrincham,Eastleigh,2,1
+EC,2026-09-05,Aldershot,Halifax,1,0
+EC,2026-09-05,Southend,Yeovil,3,2
+EC,2026-09-05,Barrow,Sutton,3,0
+EC,2026-09-05,Fylde,Worthing,2,2
+EC,2026-09-05,Gateshead,Solihull,1,1
+EC,2026-09-05,Hartlepool,Woking,1,0
+EC,2026-09-05,Hornchurch,Forest Green,0,1
+EC,2026-09-05,Scunthorpe,Harrogate,0,2
+EC,2026-09-05,Tamworth,Boston Utd,2,2
+EC,2026-09-05,Wealdstone,Kidderminster,1,4
+EC,2026-09-05,Boreham Wood,Carlisle,2,1
+EC,2026-09-11,Kidderminster,Hartlepool,2,0
+EC,2026-09-12,Harrogate,Tamworth,3,1
+EC,2026-09-12,Worthing,Barrow,2,2
+EC,2026-09-12,Boston Utd,Wealdstone,1,3
+EC,2026-09-12,Eastleigh,Boreham Wood,1,1
+EC,2026-09-12,Forest Green,Gateshead,4,0
+EC,2026-09-12,Halifax,Hornchurch,3,0
+EC,2026-09-12,Solihull,Aldershot,1,2
+EC,2026-09-12,Sutton,Scunthorpe,0,2
+EC,2026-09-12,Woking,Altrincham,5,1
+EC,2026-09-12,Yeovil,Fylde,1,4
+EC,2026-09-12,Carlisle,Southend,2,2
+EC,2026-09-15,Aldershot,Yeovil,1,1
+EC,2026-09-15,Boston Utd,Woking,1,1
+EC,2026-09-15,Carlisle,Forest Green,1,1
+EC,2026-09-15,Harrogate,Fylde,1,2
+EC,2026-09-15,Solihull,Barrow,1,0
+EC,2026-09-15,Southend,Tamworth,3,1
+EC,2026-09-15,Sutton,Eastleigh,2,1
+EC,2026-09-15,Wealdstone,Halifax,0,1
+EC,2026-09-15,Worthing,Hornchurch,1,0
+EC,2026-09-16,Altrincham,Hartlepool,2,1
+EC,2026-09-16,Kidderminster,Gateshead,1,0
+EC,2026-09-16,Scunthorpe,Boreham Wood,1,2
+EC,2026-09-18,Yeovil,Solihull,4,1
+EC,2026-09-19,Hartlepool,Worthing,1,3
+EC,2026-09-19,Tamworth,Wealdstone,2,1
+EC,2026-09-19,Barrow,Aldershot,1,0
+EC,2026-09-19,Boreham Wood,Harrogate,4,1
+EC,2026-09-19,Eastleigh,Carlisle,1,0
+EC,2026-09-19,Forest Green,Boston Utd,1,3
+EC,2026-09-19,Fylde,Altrincham,1,2
+EC,2026-09-19,Gateshead,Southend,1,6
+EC,2026-09-19,Halifax,Sutton,1,1
+EC,2026-09-19,Woking,Kidderminster,0,0
+EC,2026-09-19,Hornchurch,Scunthorpe,1,0
+EC,2026-09-26,Aldershot,Tamworth,5,1
+EC,2026-09-26,Altrincham,Hornchurch,3,0
+EC,2026-09-26,Boston Utd,Fylde,0,1
+EC,2026-09-26,Carlisle,Woking,2,5
+EC,2026-09-26,Harrogate,Eastleigh,4,1
+EC,2026-09-26,Kidderminster,Yeovil,0,1
+EC,2026-09-26,Scunthorpe,Hartlepool,4,1
+EC,2026-09-26,Solihull,Boreham Wood,0,3
+EC,2026-09-26,Southend,Barrow,2,4
+EC,2026-09-26,Sutton,Forest Green,3,3
+EC,2026-09-26,Wealdstone,Gateshead,4,0
+EC,2026-09-26,Worthing,Halifax,2,1
+EC,2026-09-29,Boreham Wood,Kidderminster,3,1
+EC,2026-09-29,Barrow,Scunthorpe,3,0
+EC,2026-09-29,Forest Green,Wealdstone,1,1
+EC,2026-09-29,Fylde,Carlisle,0,2
+EC,2026-09-29,Gateshead,Altrincham,0,1
+EC,2026-09-29,Halifax,Boston Utd,1,1
+EC,2026-09-29,Hartlepool,Harrogate,0,1
+EC,2026-09-29,Hornchurch,Aldershot,2,1
+EC,2026-09-29,Woking,Solihull,2,4
+EC,2026-09-29,Yeovil,Worthing,1,1
+EC,2026-09-30,Eastleigh,Southend,1,1
+EC,2026-09-30,Tamworth,Sutton,2,0
+EC,2026-10-03,Aldershot,Carlisle,1,3
+EC,2026-10-03,Barrow,Wealdstone,2,1
+EC,2026-10-03,Boreham Wood,Altrincham,3,1
+EC,2026-10-03,Eastleigh,Woking,1,3
+EC,2026-10-03,Gateshead,Worthing,1,2
+EC,2026-10-03,Harrogate,Hornchurch,3,0
+EC,2026-10-03,Hartlepool,Tamworth,0,1
+EC,2026-10-03,Kidderminster,Sutton,1,1
+EC,2026-10-03,Solihull,Halifax,0,2
+EC,2026-10-03,Southend,Fylde,3,1
+EC,2026-10-03,Yeovil,Boston Utd,6,0
+EC,2026-10-09,Sutton,Boreham Wood,0,2
+EC,2026-10-10,Altrincham,Aldershot,3,1
+EC,2026-10-10,Carlisle,Kidderminster,0,0
+EC,2026-10-10,Boston Utd,Southend,1,2
+EC,2026-10-10,Fylde,Scunthorpe,2,0
+EC,2026-10-10,Halifax,Gateshead,4,1
+EC,2026-10-10,Hornchurch,Eastleigh,2,0
+EC,2026-10-10,Tamworth,Barrow,1,2
+EC,2026-10-10,Wealdstone,Yeovil,0,6
+EC,2026-10-10,Woking,Harrogate,0,1
+EC,2026-10-10,Worthing,Solihull,5,0
+EC,2026-10-10,Forest Green,Hartlepool,2,4
+EC,2026-10-24,Eastleigh,Boston Utd,4,2
+EC,2026-10-24,Harrogate,Sutton,3,1
+EC,2026-10-24,Aldershot,Wealdstone,0,1
+EC,2026-10-24,Boreham Wood,Fylde,4,0
+EC,2026-10-24,Hartlepool,Hornchurch,2,1
+EC,2026-10-24,Scunthorpe,Woking,2,3
+EC,2026-10-24,Solihull,Carlisle,1,2
+EC,2026-10-24,Southend,Halifax,2,2
+EC,2026-10-24,Yeovil,Altrincham,1,2
+EC,2026-10-24,Kidderminster,Worthing,1,2
+SC0,2026-07-31,Dundee United,Rangers,1,1
+SC0,2026-08-01,Falkirk,St Mirren,0,2
+SC0,2026-08-01,Aberdeen,Hearts,2,1
+SC0,2026-08-02,St Johnstone,Kilmarnock,4,3
+SC0,2026-08-02,Hibernian,Motherwell,1,2
+SC0,2026-08-03,Celtic,Dundee,1,0
+SC0,2026-08-08,Dundee,Aberdeen,2,0
+SC0,2026-08-08,St Mirren,St Johnstone,1,0
+SC0,2026-08-09,Kilmarnock,Celtic,1,5
+SC0,2026-08-09,Hearts,Dundee United,4,0
+SC0,2026-08-09,Motherwell,Falkirk,0,0
+SC0,2026-08-09,Rangers,Hibernian,1,2
+SC0,2026-08-22,Dundee United,Dundee,0,2
+SC0,2026-08-29,Celtic,Falkirk,2,1
+SC0,2026-08-29,Hearts,St Johnstone,2,1
+SC0,2026-08-29,Kilmarnock,Dundee United,0,4
+SC0,2026-08-30,Aberdeen,Rangers,0,1
+SC0,2026-08-30,Dundee,Hibernian,1,2
+SC0,2026-08-30,St Mirren,Motherwell,3,3
+SC0,2026-09-02,Celtic,Aberdeen,3,0
+SC0,2026-09-02,Dundee,St Johnstone,1,1
+SC0,2026-09-02,Kilmarnock,St Mirren,0,1
+SC0,2026-09-02,Motherwell,Dundee United,3,0
+SC0,2026-09-02,Falkirk,Rangers,1,2
+SC0,2026-09-03,Hibernian,Hearts,1,3
+SC0,2026-09-05,Aberdeen,Kilmarnock,0,0
+SC0,2026-09-05,Dundee United,Falkirk,1,1
+SC0,2026-09-05,Rangers,Motherwell,1,0
+SC0,2026-09-05,St Mirren,Celtic,1,2
+SC0,2026-09-06,Hearts,Dundee,2,1
+SC0,2026-09-06,St Johnstone,Hibernian,2,1
+SC0,2026-09-09,Rangers,St Mirren,1,0
+SC0,2026-09-09,St Johnstone,Celtic,0,1
+SC0,2026-09-15,Falkirk,Hearts,2,1
+SC0,2026-09-15,Hibernian,Kilmarnock,0,1
+SC0,2026-09-15,Motherwell,Aberdeen,0,4
+SC0,2026-09-19,Dundee,Motherwell,2,1
+SC0,2026-09-19,Hibernian,Aberdeen,1,1
+SC0,2026-09-19,St Johnstone,Falkirk,1,1
+SC0,2026-09-19,St Mirren,Dundee United,0,3
+SC0,2026-09-19,Kilmarnock,Hearts,1,1
+SC0,2026-09-20,Celtic,Rangers,0,1
+SC0,2026-10-10,Dundee United,Hibernian,1,0
+SC0,2026-10-10,Falkirk,Dundee,1,2
+SC0,2026-10-10,Hearts,St Mirren,5,0
+SC0,2026-10-10,Rangers,Kilmarnock,3,1
+SC0,2026-10-11,Motherwell,Celtic,0,2
+SC0,2026-10-11,Aberdeen,St Johnstone,0,1
+SC0,2026-10-17,Aberdeen,St Mirren,3,1
+SC0,2026-10-17,Hibernian,Falkirk,1,2
+SC0,2026-10-17,Kilmarnock,Motherwell,3,2
+SC0,2026-10-17,St Johnstone,Dundee United,1,1
+SC0,2026-10-17,Dundee,Rangers,2,2
+SC0,2026-10-18,Celtic,Hearts,7,1
+SC0,2026-10-24,Dundee United,Aberdeen,3,2
+SC0,2026-10-24,Falkirk,Kilmarnock,3,0
+SC0,2026-10-24,Rangers,St Johnstone,4,0
+SC0,2026-10-24,St Mirren,Dundee,2,1
+SC0,2026-10-25,Hibernian,Celtic,1,2
+SC0,2026-10-25,Motherwell,Hearts,0,2
+SC1,2026-08-01,Ayr,Arbroath,2,0
+SC1,2026-08-01,Inverness C,Dunfermline,0,0
+SC1,2026-08-01,Livingston,Queens Park,2,0
+SC1,2026-08-01,Morton,Partick,0,1
+SC1,2026-08-01,Raith Rvs,Stenhousemuir,1,1
+SC1,2026-08-07,Partick,Livingston,2,0
+SC1,2026-08-08,Arbroath,Inverness C,0,0
+SC1,2026-08-08,Dunfermline,Ayr,1,1
+SC1,2026-08-08,Queens Park,Raith Rvs,1,2
+SC1,2026-08-08,Stenhousemuir,Morton,2,0
+SC1,2026-08-21,Inverness C,Partick,1,1
+SC1,2026-08-22,Livingston,Dunfermline,2,0
+SC1,2026-08-22,Morton,Arbroath,1,2
+SC1,2026-08-22,Queens Park,Stenhousemuir,0,2
+SC1,2026-08-22,Raith Rvs,Ayr,2,0
+SC1,2026-08-28,Dunfermline,Raith Rvs,1,0
+SC1,2026-08-29,Arbroath,Livingston,1,0
+SC1,2026-08-29,Ayr,Morton,1,1
+SC1,2026-08-29,Partick,Queens Park,0,0
+SC1,2026-08-29,Stenhousemuir,Inverness C,3,1
+SC1,2026-09-04,Livingston,Stenhousemuir,0,1
+SC1,2026-09-05,Arbroath,Dunfermline,1,1
+SC1,2026-09-05,Inverness C,Raith Rvs,0,2
+SC1,2026-09-05,Partick,Ayr,1,0
+SC1,2026-09-05,Queens Park,Morton,2,1
+SC1,2026-09-11,Morton,Livingston,1,4
+SC1,2026-09-12,Ayr,Inverness C,1,3
+SC1,2026-09-12,Dunfermline,Queens Park,2,0
+SC1,2026-09-12,Raith Rvs,Arbroath,4,0
+SC1,2026-09-15,Stenhousemuir,Partick,1,0
+SC1,2026-09-18,Queens Park,Ayr,0,2
+SC1,2026-09-19,Livingston,Inverness C,2,2
+SC1,2026-09-19,Morton,Dunfermline,0,1
+SC1,2026-09-19,Partick,Raith Rvs,0,0
+SC1,2026-09-19,Stenhousemuir,Arbroath,1,0
+SC1,2026-09-25,Arbroath,Queens Park,2,1
+SC1,2026-09-25,Ayr,Stenhousemuir,0,1
+SC1,2026-09-25,Inverness C,Morton,2,0
+SC1,2026-09-25,Raith Rvs,Livingston,0,2
+SC1,2026-10-03,Livingston,Ayr,1,2
+SC1,2026-10-03,Morton,Raith Rvs,1,2
+SC1,2026-10-03,Partick,Arbroath,3,0
+SC1,2026-10-10,Arbroath,Morton,1,2
+SC1,2026-10-10,Ayr,Dunfermline,1,1
+SC1,2026-10-10,Inverness C,Stenhousemuir,2,0
+SC1,2026-10-10,Livingston,Partick,1,2
+SC1,2026-10-10,Raith Rvs,Queens Park,2,0
+SC1,2026-10-13,Queens Park,Inverness C,2,1
+SC1,2026-10-16,Ayr,Partick,0,1
+SC1,2026-10-17,Dunfermline,Livingston,0,0
+SC1,2026-10-17,Inverness C,Arbroath,2,0
+SC1,2026-10-17,Morton,Queens Park,2,0
+SC1,2026-10-17,Stenhousemuir,Raith Rvs,1,1
+SC1,2026-10-20,Dunfermline,Partick,1,1
+SC1,2026-10-24,Livingston,Arbroath,1,0
+SC1,2026-10-24,Partick,Stenhousemuir,3,0
+SC1,2026-10-24,Queens Park,Dunfermline,0,1
+SC1,2026-10-24,Raith Rvs,Inverness C,0,2
+SC2,2026-08-01,Alloa,East Fife,0,0
+SC2,2026-08-01,Cove Rangers,Airdrie Utd,0,0
+SC2,2026-08-01,East Kilbride,Queen of Sth,5,1
+SC2,2026-08-01,Montrose,Hamilton,0,5
+SC2,2026-08-01,Peterhead,Ross County,0,1
+SC2,2026-08-08,Airdrie Utd,East Kilbride,1,1
+SC2,2026-08-08,East Fife,Cove Rangers,2,0
+SC2,2026-08-08,Hamilton,Alloa,1,0
+SC2,2026-08-08,Queen of Sth,Peterhead,0,1
+SC2,2026-08-08,Ross County,Montrose,2,1
+SC2,2026-08-15,Alloa,Montrose,3,0
+SC2,2026-08-15,East Kilbride,Cove Rangers,3,0
+SC2,2026-08-15,Hamilton,Airdrie Utd,4,0
+SC2,2026-08-15,Peterhead,East Fife,2,1
+SC2,2026-08-22,Airdrie Utd,Ross County,1,3
+SC2,2026-08-22,Cove Rangers,Peterhead,3,0
+SC2,2026-08-22,East Fife,Hamilton,0,0
+SC2,2026-08-22,Montrose,East Kilbride,3,0
+SC2,2026-08-22,Queen of Sth,Alloa,0,2
+SC2,2026-08-29,Airdrie Utd,East Fife,0,0
+SC2,2026-08-29,Alloa,Peterhead,1,1
+SC2,2026-08-29,Hamilton,Cove Rangers,1,0
+SC2,2026-08-29,Montrose,Queen of Sth,2,1
+SC2,2026-08-29,Ross County,East Kilbride,4,0
+SC2,2026-09-05,Cove Rangers,Alloa,1,1
+SC2,2026-09-05,East Fife,Ross County,2,2
+SC2,2026-09-05,East Kilbride,Hamilton,0,1
+SC2,2026-09-05,Peterhead,Montrose,0,3
+SC2,2026-09-05,Queen of Sth,Airdrie Utd,2,1
+SC2,2026-09-12,Airdrie Utd,Alloa,1,0
+SC2,2026-09-12,East Kilbride,Peterhead,3,1
+SC2,2026-09-12,Montrose,Cove Rangers,2,1
+SC2,2026-09-12,Queen of Sth,East Fife,1,1
+SC2,2026-09-15,Ross County,Queen of Sth,8,0
+SC2,2026-09-19,Alloa,East Kilbride,1,2
+SC2,2026-09-19,Cove Rangers,Ross County,0,2
+SC2,2026-09-19,East Fife,Montrose,1,2
+SC2,2026-09-19,Hamilton,Queen of Sth,4,1
+SC2,2026-09-19,Peterhead,Airdrie Utd,1,2
+SC2,2026-10-03,Airdrie Utd,Montrose,1,0
+SC2,2026-10-03,East Fife,East Kilbride,0,3
+SC2,2026-10-03,Queen of Sth,Cove Rangers,4,3
+SC2,2026-10-03,Ross County,Alloa,4,1
+SC2,2026-10-03,Hamilton,Peterhead,2,1
+SC2,2026-10-10,Alloa,Hamilton,0,3
+SC2,2026-10-10,Cove Rangers,East Fife,1,1
+SC2,2026-10-10,East Kilbride,Airdrie Utd,2,2
+SC2,2026-10-10,Montrose,Ross County,0,5
+SC2,2026-10-10,Peterhead,Queen of Sth,0,1
+SC2,2026-10-17,East Fife,Alloa,0,3
+SC2,2026-10-17,East Kilbride,Montrose,1,1
+SC2,2026-10-17,Peterhead,Cove Rangers,2,0
+SC2,2026-10-17,Queen of Sth,Ross County,1,7
+SC2,2026-10-17,Airdrie Utd,Hamilton,1,2
+SC2,2026-10-24,Alloa,Queen of Sth,0,1
+SC2,2026-10-24,Hamilton,East Fife,2,1
+SC2,2026-10-24,Montrose,Peterhead,3,0
+SC2,2026-10-24,Ross County,Airdrie Utd,4,0
+SC3,2026-08-01,Annan Athletic,Spartans,2,4
+SC3,2026-08-01,Clyde,Stranraer,3,1
+SC3,2026-08-01,Edinburgh City,Elgin,0,5
+SC3,2026-08-01,Forfar,Kelty Hearts,1,0
+SC3,2026-08-01,Stirling,Dumbarton,2,0
+SC3,2026-08-08,Dumbarton,Clyde,1,0
+SC3,2026-08-08,Elgin,Forfar,1,1
+SC3,2026-08-08,Kelty Hearts,Stirling,3,2
+SC3,2026-08-08,Spartans,Edinburgh City,2,2
+SC3,2026-08-08,Stranraer,Annan Athletic,0,1
+SC3,2026-08-15,Annan Athletic,Clyde,1,2
+SC3,2026-08-15,Dumbarton,Edinburgh City,0,3
+SC3,2026-08-15,Elgin,Kelty Hearts,4,1
+SC3,2026-08-15,Forfar,Stirling,3,0
+SC3,2026-08-15,Stranraer,Spartans,1,0
+SC3,2026-08-22,Clyde,Forfar,3,0
+SC3,2026-08-22,Edinburgh City,Annan Athletic,1,0
+SC3,2026-08-22,Kelty Hearts,Dumbarton,3,1
+SC3,2026-08-22,Spartans,Elgin,3,3
+SC3,2026-08-22,Stirling,Stranraer,2,2
+SC3,2026-08-28,Edinburgh City,Forfar,1,1
+SC3,2026-08-29,Annan Athletic,Dumbarton,2,0
+SC3,2026-08-29,Elgin,Stirling,4,0
+SC3,2026-08-29,Spartans,Clyde,3,3
+SC3,2026-08-29,Stranraer,Kelty Hearts,2,0
+SC3,2026-09-05,Clyde,Edinburgh City,3,2
+SC3,2026-09-05,Dumbarton,Elgin,2,1
+SC3,2026-09-05,Forfar,Stranraer,0,3
+SC3,2026-09-05,Kelty Hearts,Annan Athletic,2,1
+SC3,2026-09-05,Stirling,Spartans,0,2
+SC3,2026-09-12,Annan Athletic,Elgin,2,0
+SC3,2026-09-12,Clyde,Kelty Hearts,4,1
+SC3,2026-09-12,Edinburgh City,Stirling,7,3
+SC3,2026-09-12,Spartans,Forfar,5,1
+SC3,2026-09-12,Stranraer,Dumbarton,3,1
+SC3,2026-09-19,Dumbarton,Spartans,3,0
+SC3,2026-09-19,Elgin,Stranraer,1,5
+SC3,2026-09-19,Forfar,Annan Athletic,1,0
+SC3,2026-09-19,Kelty Hearts,Edinburgh City,1,3
+SC3,2026-09-19,Stirling,Clyde,1,1
+SC3,2026-10-03,Annan Athletic,Stirling,0,1
+SC3,2026-10-03,Dumbarton,Forfar,2,1
+SC3,2026-10-03,Elgin,Clyde,6,2
+SC3,2026-10-03,Spartans,Kelty Hearts,0,2
+SC3,2026-10-03,Stranraer,Edinburgh City,0,0
+SC3,2026-10-10,Annan Athletic,Stranraer,1,6
+SC3,2026-10-10,Clyde,Dumbarton,2,1
+SC3,2026-10-10,Edinburgh City,Spartans,1,3
+SC3,2026-10-10,Forfar,Elgin,1,2
+SC3,2026-10-10,Stirling,Kelty Hearts,2,1
+SC3,2026-10-17,Clyde,Annan Athletic,4,1
+SC3,2026-10-17,Dumbarton,Stirling,1,1
+SC3,2026-10-17,Elgin,Edinburgh City,0,0
+SC3,2026-10-17,Kelty Hearts,Forfar,2,1
+SC3,2026-10-17,Spartans,Stranraer,0,2
+SP2,2026-08-14,Sociedad B,Castellon,0,1
+SP2,2026-08-15,Andorra,Ceuta,5,1
+SP2,2026-08-15,Cadiz,Celta B,0,0
+SP2,2026-08-15,Oviedo,Granada,0,0
+SP2,2026-08-15,Mallorca,Valladolid,2,0
+SP2,2026-08-16,Eibar,Tenerife,1,3
+SP2,2026-08-16,Burgos,Cordoba,3,2
+SP2,2026-08-16,Girona,Leganes,1,1
+SP2,2026-08-16,Las Palmas,Albacete,2,1
+SP2,2026-08-17,Sp Gijon,Sabadell,0,0
+SP2,2026-08-17,Almeria,Eldense,3,0
+SP2,2026-08-21,Cordoba,Girona,2,1
+SP2,2026-08-22,Oviedo,Leganes,0,1
+SP2,2026-08-22,Albacete,Sociedad B,1,2
+SP2,2026-08-22,Ceuta,Las Palmas,0,2
+SP2,2026-08-22,Eldense,Cadiz,2,2
+SP2,2026-08-23,Eibar,Valladolid,1,0
+SP2,2026-08-23,Castellon,Sabadell,0,0
+SP2,2026-08-23,Sp Gijon,Burgos,1,0
+SP2,2026-08-23,Tenerife,Almeria,1,0
+SP2,2026-08-24,Celta B,Andorra,4,2
+SP2,2026-08-24,Granada,Mallorca,2,0
+SP2,2026-08-28,Tenerife,Sp Gijon,0,1
+SP2,2026-08-29,Sabadell,Almeria,1,0
+SP2,2026-08-29,Albacete,Oviedo,0,1
+SP2,2026-08-29,Leganes,Eldense,1,0
+SP2,2026-08-29,Girona,Las Palmas,5,2
+SP2,2026-08-30,Andorra,Eibar,0,1
+SP2,2026-08-30,Cadiz,Valladolid,1,1
+SP2,2026-08-30,Mallorca,Ceuta,3,0
+SP2,2026-08-30,Cordoba,Granada,1,3
+SP2,2026-08-31,Burgos,Sociedad B,2,2
+SP2,2026-08-31,Celta B,Castellon,1,2
+SP2,2026-09-04,Las Palmas,Leganes,0,0
+SP2,2026-09-05,Sociedad B,Tenerife,1,1
+SP2,2026-09-05,Sp Gijon,Girona,0,2
+SP2,2026-09-05,Ceuta,Celta B,0,2
+SP2,2026-09-05,Valladolid,Andorra,1,0
+SP2,2026-09-05,Eldense,Mallorca,0,0
+SP2,2026-09-06,Eibar,Granada,3,0
+SP2,2026-09-06,Oviedo,Burgos,0,0
+SP2,2026-09-06,Castellon,Albacete,2,0
+SP2,2026-09-06,Almeria,Cadiz,3,2
+SP2,2026-09-07,Sabadell,Cordoba,3,2
+SP2,2026-09-11,Burgos,Ceuta,3,1
+SP2,2026-09-12,Andorra,Sociedad B,1,3
+SP2,2026-09-12,Cadiz,Las Palmas,0,1
+SP2,2026-09-12,Girona,Castellon,1,2
+SP2,2026-09-12,Granada,Albacete,1,1
+SP2,2026-09-12,Cordoba,Almeria,0,2
+SP2,2026-09-13,Sp Gijon,Eldense,0,1
+SP2,2026-09-13,Valladolid,Oviedo,0,3
+SP2,2026-09-13,Mallorca,Sabadell,2,0
+SP2,2026-09-13,Tenerife,Leganes,2,0
+SP2,2026-09-14,Celta B,Eibar,0,4
+SP2,2026-09-18,Albacete,Cordoba,1,2
+SP2,2026-09-19,Sociedad B,Mallorca,0,1
+SP2,2026-09-19,Andorra,Sp Gijon,1,3
+SP2,2026-09-19,Castellon,Tenerife,5,0
+SP2,2026-09-19,Eldense,Eibar,1,2
+SP2,2026-09-19,Cadiz,Girona,1,2
+SP2,2026-09-20,Sabadell,Oviedo,3,1
+SP2,2026-09-20,Ceuta,Valladolid,1,1
+SP2,2026-09-20,Almeria,Celta B,2,0
+SP2,2026-09-20,Las Palmas,Burgos,1,2
+SP2,2026-09-20,Leganes,Granada,3,2
+SP2,2026-09-25,Girona,Albacete,2,0
+SP2,2026-09-26,Ceuta,Sociedad B,3,1
+SP2,2026-09-26,Granada,Andorra,2,3
+SP2,2026-09-26,Celta B,Sabadell,1,1
+SP2,2026-09-26,Tenerife,Cadiz,1,1
+SP2,2026-09-27,Valladolid,Cordoba,3,1
+SP2,2026-09-27,Mallorca,Almeria,0,1
+SP2,2026-09-27,Burgos,Eldense,1,0
+SP2,2026-09-27,Eibar,Las Palmas,3,2
+SP2,2026-09-27,Oviedo,Sp Gijon,2,0
+SP2,2026-09-28,Leganes,Castellon,0,2
+SP2,2026-10-02,Eldense,Oviedo,4,1
+SP2,2026-10-03,Albacete,Eibar,1,3
+SP2,2026-10-03,Almeria,Burgos,2,1
+SP2,2026-10-03,Cadiz,Leganes,4,0
+SP2,2026-10-04,Sociedad B,Granada,2,3
+SP2,2026-10-04,Sp Gijon,Celta B,3,2
+SP2,2026-10-04,Castellon,Ceuta,1,1
+SP2,2026-10-04,Las Palmas,Valladolid,2,2
+SP2,2026-10-04,Girona,Mallorca,0,0
+SP2,2026-10-04,Sabadell,Andorra,0,0
+SP2,2026-10-05,Cordoba,Tenerife,3,2
+SP2,2026-10-10,Ceuta,Sabadell,1,2
+SP2,2026-10-10,Eldense,Cordoba,2,1
+SP2,2026-10-10,Celta B,Sociedad B,4,1
+SP2,2026-10-11,Andorra,Castellon,1,0
+SP2,2026-10-11,Almeria,Leganes,3,0
+SP2,2026-10-11,Mallorca,Las Palmas,3,1
+SP2,2026-10-11,Cadiz,Sp Gijon,0,1
+SP2,2026-10-12,Valladolid,Albacete,5,0
+SP2,2026-10-12,Burgos,Granada,0,1
+SP2,2026-10-12,Oviedo,Eibar,3,1
+SP2,2026-10-12,Tenerife,Girona,1,1
+SP2,2026-10-16,Leganes,Cordoba,0,1
+SP2,2026-10-17,Sociedad B,Almeria,2,4
+SP2,2026-10-17,Eibar,Mallorca,1,1
+SP2,2026-10-17,Sp Gijon,Albacete,2,1
+SP2,2026-10-17,Las Palmas,Castellon,0,3
+SP2,2026-10-18,Ceuta,Oviedo,1,2
+SP2,2026-10-18,Granada,Cadiz,2,0
+SP2,2026-10-18,Girona,Andorra,2,0
+SP2,2026-10-18,Valladolid,Eldense,2,3
+SP2,2026-10-18,Burgos,Sabadell,1,0
+SP2,2026-10-19,Celta B,Tenerife,1,1
+SP2,2026-10-23,Granada,Valladolid,2,1
+SP2,2026-10-24,Cordoba,Eibar,2,0
+SP2,2026-10-24,Leganes,Mallorca,1,1
+SP2,2026-10-24,Girona,Celta B,5,1
+SP2,2026-10-24,Las Palmas,Sociedad B,1,0
+SP2,2026-10-24,Almeria,Oviedo,2,2
+SP2,2026-10-25,Sabadell,Tenerife,1,1
+SP2,2026-10-25,Albacete,Eldense,2,0
+SP2,2026-10-25,Cadiz,Ceuta,3,1
+SP2,2026-10-25,Castellon,Sp Gijon,4,0
+SP2,2026-10-26,Andorra,Burgos,2,3
+I2,2026-08-21,Vicenza,Catanzaro,3,2
+I2,2026-08-22,Carrarese,Mantova,1,2
+I2,2026-08-22,Sudtirol,Virtus Entella,1,0
+I2,2026-08-22,Avellino,Arezzo,1,2
+I2,2026-08-22,Benevento,Modena,1,2
+I2,2026-08-22,Empoli,Cremonese,1,0
+I2,2026-08-23,Pisa,Padova,0,1
+I2,2026-08-23,Verona,Ascoli,1,2
+I2,2026-08-23,Cesena,Sampdoria,1,1
+I2,2026-08-23,Palermo,Juve Stabia,1,0
+I2,2026-08-28,Cremonese,Modena,0,3
+I2,2026-08-29,Sampdoria,Juve Stabia,1,2
+I2,2026-08-29,Virtus Entella,Cesena,1,2
+I2,2026-08-29,Ascoli,Carrarese,1,1
+I2,2026-08-29,Avellino,Vicenza,3,0
+I2,2026-08-29,Padova,Verona,1,1
+I2,2026-08-30,Arezzo,Palermo,2,3
+I2,2026-08-30,Mantova,Empoli,3,1
+I2,2026-08-30,Benevento,Sudtirol,1,1
+I2,2026-08-30,Pisa,Catanzaro,2,1
+I2,2026-09-05,Sudtirol,Catanzaro,2,0
+I2,2026-09-05,Ascoli,Benevento,1,0
+I2,2026-09-05,Carrarese,Empoli,0,1
+I2,2026-09-06,Cesena,Mantova,1,1
+I2,2026-09-06,Juve Stabia,Pisa,0,3
+I2,2026-09-06,Modena,Avellino,0,1
+I2,2026-09-06,Virtus Entella,Vicenza,2,2
+I2,2026-09-06,Verona,Arezzo,5,0
+I2,2026-09-06,Cremonese,Padova,3,1
+I2,2026-09-07,Palermo,Sampdoria,3,1
+I2,2026-09-11,Empoli,Arezzo,0,1
+I2,2026-09-11,Benevento,Verona,3,1
+I2,2026-09-11,Pisa,Virtus Entella,1,4
+I2,2026-09-12,Padova,Ascoli,1,0
+I2,2026-09-12,Sudtirol,Modena,1,1
+I2,2026-09-12,Vicenza,Juve Stabia,1,1
+I2,2026-09-12,Catanzaro,Carrarese,1,0
+I2,2026-09-12,Cesena,Cremonese,2,2
+I2,2026-09-13,Avellino,Palermo,1,1
+I2,2026-09-13,Mantova,Sampdoria,2,0
+I2,2026-09-18,Juve Stabia,Cesena,1,1
+I2,2026-09-19,Carrarese,Benevento,0,1
+I2,2026-09-19,Cremonese,Virtus Entella,0,0
+I2,2026-09-19,Palermo,Padova,2,1
+I2,2026-09-19,Sampdoria,Catanzaro,2,1
+I2,2026-09-19,Ascoli,Avellino,3,1
+I2,2026-09-20,Arezzo,Sudtirol,1,4
+I2,2026-09-20,Verona,Vicenza,2,1
+I2,2026-09-20,Mantova,Pisa,2,2
+I2,2026-09-20,Modena,Empoli,2,1
+I2,2026-10-09,Avellino,Sampdoria,4,1
+I2,2026-10-10,Benevento,Cesena,2,0
+I2,2026-10-10,Empoli,Palermo,2,4
+I2,2026-10-10,Sudtirol,Ascoli,0,0
+I2,2026-10-10,Virtus Entella,Juve Stabia,1,1
+I2,2026-10-10,Vicenza,Pisa,0,3
+I2,2026-10-10,Arezzo,Cremonese,0,0
+I2,2026-10-11,Catanzaro,Mantova,1,3
+I2,2026-10-11,Padova,Carrarese,0,2
+I2,2026-10-11,Modena,Verona,3,2
+I2,2026-10-16,Verona,Catanzaro,2,2
+I2,2026-10-17,Ascoli,Empoli,1,1
+I2,2026-10-17,Benevento,Vicenza,2,2
+I2,2026-10-17,Carrarese,Modena,2,1
+I2,2026-10-17,Padova,Virtus Entella,1,2
+I2,2026-10-17,Mantova,Palermo,0,2
+I2,2026-10-17,Pisa,Cremonese,3,1
+I2,2026-10-18,Juve Stabia,Sudtirol,3,0
+I2,2026-10-18,Cesena,Avellino,1,1
+I2,2026-10-18,Sampdoria,Arezzo,1,2
+I2,2026-10-23,Empoli,Vicenza,0,2
+I2,2026-10-24,Avellino,Padova,0,1
+I2,2026-10-24,Cremonese,Juve Stabia,0,1
+I2,2026-10-24,Modena,Cesena,3,0
+I2,2026-10-24,Sudtirol,Sampdoria,1,1
+I2,2026-10-24,Virtus Entella,Mantova,0,1
+I2,2026-10-24,Catanzaro,Ascoli,1,6
+I2,2026-10-24,Arezzo,Benevento,0,3
+I2,2026-10-25,Palermo,Carrarese,2,1
+I2,2026-10-25,Verona,Pisa,1,1
+F2,2026-08-08,Boulogne,Nancy,0,0
+F2,2026-08-08,Clermont,Reims,0,0
+F2,2026-08-08,Dunkerque,Grenoble,4,2
+F2,2026-08-08,Metz,Guingamp,2,1
+F2,2026-08-08,Montpellier,Dijon,1,1
+F2,2026-08-08,Nantes,Red Star,0,1
+F2,2026-08-08,Pau FC,Annecy,0,1
+F2,2026-08-08,Rodez,Laval,3,1
+F2,2026-08-08,Sochaux,St Etienne,0,3
+F2,2026-08-14,Annecy,Rodez,2,0
+F2,2026-08-14,Dijon,Pau FC,0,1
+F2,2026-08-14,Grenoble,Metz,0,0
+F2,2026-08-14,Guingamp,Boulogne,1,0
+F2,2026-08-14,Laval,Nantes,2,1
+F2,2026-08-14,Nancy,Montpellier,0,1
+F2,2026-08-14,Red Star,Sochaux,0,0
+F2,2026-08-14,Reims,Dunkerque,3,3
+F2,2026-08-14,St Etienne,Clermont,3,1
+F2,2026-08-21,Boulogne,Red Star,1,1
+F2,2026-08-21,Clermont,Dijon,1,1
+F2,2026-08-21,Dunkerque,Montpellier,0,1
+F2,2026-08-21,Pau FC,Nancy,0,1
+F2,2026-08-21,Sochaux,Guingamp,1,0
+F2,2026-08-22,Metz,Laval,1,1
+F2,2026-08-22,Nantes,Rodez,2,5
+F2,2026-08-22,St Etienne,Grenoble,4,0
+F2,2026-08-24,Reims,Annecy,3,1
+F2,2026-08-28,Clermont,Sochaux,0,0
+F2,2026-08-28,Laval,Grenoble,0,3
+F2,2026-08-28,Montpellier,Boulogne,0,0
+F2,2026-08-28,Nancy,Dunkerque,2,0
+F2,2026-08-28,Rodez,Pau FC,2,2
+F2,2026-08-29,Annecy,Metz,1,1
+F2,2026-08-29,Red Star,Reims,1,4
+F2,2026-08-29,Guingamp,Nantes,3,3
+F2,2026-08-31,Dijon,St Etienne,2,3
+F2,2026-09-04,Boulogne,Dijon,1,1
+F2,2026-09-04,Dunkerque,Clermont,1,1
+F2,2026-09-04,Grenoble,Annecy,1,2
+F2,2026-09-04,Laval,Red Star,1,2
+F2,2026-09-04,Pau FC,Sochaux,1,1
+F2,2026-09-05,Metz,Rodez,4,1
+F2,2026-09-05,Reims,Guingamp,2,2
+F2,2026-09-05,St Etienne,Montpellier,3,1
+F2,2026-09-07,Nantes,Nancy,1,0
+F2,2026-09-11,Clermont,Boulogne,0,0
+F2,2026-09-11,Dijon,Laval,3,2
+F2,2026-09-11,Montpellier,Pau FC,1,0
+F2,2026-09-11,Nancy,Reims,1,2
+F2,2026-09-11,Rodez,Grenoble,0,1
+F2,2026-09-12,Guingamp,Annecy,2,1
+F2,2026-09-12,Sochaux,Nantes,1,0
+F2,2026-09-12,Dunkerque,St Etienne,2,1
+F2,2026-09-14,Red Star,Metz,1,0
+F2,2026-09-18,Annecy,Dijon,1,2
+F2,2026-09-18,Grenoble,Clermont,1,1
+F2,2026-09-18,Laval,Sochaux,1,1
+F2,2026-09-18,Pau FC,Dunkerque,2,0
+F2,2026-09-18,Reims,Montpellier,1,1
+F2,2026-09-18,Rodez,Nancy,3,4
+F2,2026-09-19,Boulogne,Nantes,1,2
+F2,2026-09-19,Guingamp,Red Star,1,3
+F2,2026-09-19,Metz,St Etienne,2,2
+F2,2026-10-09,Dunkerque,Annecy,0,1
+F2,2026-10-09,Montpellier,Grenoble,2,0
+F2,2026-10-09,Nancy,Guingamp,1,0
+F2,2026-10-09,Pau FC,Laval,3,2
+F2,2026-10-09,Sochaux,Boulogne,1,1
+F2,2026-10-10,Clermont,Red Star,2,3
+F2,2026-10-10,Nantes,Reims,0,0
+F2,2026-10-10,St Etienne,Rodez,2,0
+F2,2026-10-12,Dijon,Metz,4,2
+F2,2026-10-16,Annecy,Nancy,1,2
+F2,2026-10-16,Grenoble,Boulogne,0,2
+F2,2026-10-16,Guingamp,Pau FC,1,2
+F2,2026-10-16,Laval,Clermont,3,3
+F2,2026-10-16,Reims,Dijon,4,2
+F2,2026-10-17,Metz,Sochaux,3,2
+F2,2026-10-17,Nantes,Dunkerque,2,3
+F2,2026-10-17,Red Star,St Etienne,0,1
+F2,2026-10-19,Rodez,Montpellier,0,3
+F2,2026-10-23,Clermont,Guingamp,0,2
+F2,2026-10-23,Dunkerque,Metz,1,1
+F2,2026-10-23,Nancy,Laval,1,0
+F2,2026-10-23,Pau FC,Grenoble,2,1
+F2,2026-10-23,Sochaux,Annecy,1,3
+F2,2026-10-24,Dijon,Rodez,1,2
+F2,2026-10-24,St Etienne,Nantes,1,0
+F2,2026-10-26,Boulogne,Reims,1,1
+F2,2026-10-26,Montpellier,Red Star,2,1
+D2,2026-08-07,Bochum,Hertha,0,1
+D2,2026-08-08,Darmstadt,Holstein Kiel,2,2
+D2,2026-08-08,Heidenheim,Osnabruck,4,3
+D2,2026-08-08,Karlsruhe,Bielefeld,2,1
+D2,2026-08-08,Magdeburg,Braunschweig,1,6
+D2,2026-08-08,Wolfsburg,Kaiserslautern,0,0
+D2,2026-08-09,Cottbus,Hannover,3,1
+D2,2026-08-09,Nurnberg,Dresden,3,0
+D2,2026-08-09,St Pauli,Greuther Furth,1,1
+D2,2026-08-14,Braunschweig,Bochum,0,1
+D2,2026-08-14,Holstein Kiel,St Pauli,2,2
+D2,2026-08-15,Greuther Furth,Nurnberg,2,4
+D2,2026-08-15,Hertha,Heidenheim,4,1
+D2,2026-08-15,Osnabruck,Magdeburg,0,3
+D2,2026-08-15,Kaiserslautern,Karlsruhe,0,0
+D2,2026-08-16,Bielefeld,Cottbus,3,0
+D2,2026-08-16,Dresden,Darmstadt,1,0
+D2,2026-08-16,Hannover,Wolfsburg,0,1
+D2,2026-08-28,Bochum,Osnabruck,0,1
+D2,2026-08-28,Braunschweig,Hertha,3,5
+D2,2026-08-29,Cottbus,Greuther Furth,3,4
+D2,2026-08-29,Heidenheim,Dresden,5,3
+D2,2026-08-29,Karlsruhe,Wolfsburg,2,5
+D2,2026-08-29,Nurnberg,Bielefeld,4,1
+D2,2026-08-30,Darmstadt,Hannover,0,1
+D2,2026-08-30,Magdeburg,Holstein Kiel,2,0
+D2,2026-08-30,St Pauli,Kaiserslautern,1,2
+D2,2026-09-04,Bielefeld,St Pauli,2,2
+D2,2026-09-04,Hannover,Karlsruhe,2,2
+D2,2026-09-05,Holstein Kiel,Nurnberg,2,2
+D2,2026-09-05,Kaiserslautern,Darmstadt,3,0
+D2,2026-09-05,Wolfsburg,Cottbus,4,4
+D2,2026-09-05,Dresden,Bochum,1,2
+D2,2026-09-06,Greuther Furth,Heidenheim,0,1
+D2,2026-09-06,Hertha,Magdeburg,2,1
+D2,2026-09-06,Osnabruck,Braunschweig,3,1
+D2,2026-09-11,Darmstadt,Bielefeld,2,1
+D2,2026-09-11,Nurnberg,Hannover,2,1
+D2,2026-09-12,Bochum,Greuther Furth,1,1
+D2,2026-09-12,Braunschweig,Dresden,2,2
+D2,2026-09-12,Magdeburg,Kaiserslautern,3,0
+D2,2026-09-12,St Pauli,Wolfsburg,1,0
+D2,2026-09-13,Heidenheim,Holstein Kiel,1,0
+D2,2026-09-13,Karlsruhe,Cottbus,0,3
+D2,2026-09-13,Osnabruck,Hertha,1,3
+D2,2026-09-18,Greuther Furth,Magdeburg,1,1
+D2,2026-09-18,Wolfsburg,Darmstadt,5,1
+D2,2026-09-19,Holstein Kiel,Osnabruck,1,1
+D2,2026-09-19,Kaiserslautern,Braunschweig,1,0
+D2,2026-09-19,Karlsruhe,Nurnberg,0,1
+D2,2026-09-19,Dresden,Hertha,1,2
+D2,2026-09-20,Bielefeld,Heidenheim,2,2
+D2,2026-09-20,Cottbus,St Pauli,1,1
+D2,2026-09-20,Hannover,Bochum,2,1
+D2,2026-10-09,Braunschweig,Holstein Kiel,1,0
+D2,2026-10-09,Heidenheim,Kaiserslautern,0,0
+D2,2026-10-10,Darmstadt,Cottbus,3,1
+D2,2026-10-10,Magdeburg,Hannover,3,0
+D2,2026-10-10,Osnabruck,Dresden,1,1
+D2,2026-10-10,Nurnberg,Wolfsburg,4,4
+D2,2026-10-11,Bochum,Bielefeld,0,1
+D2,2026-10-11,Hertha,Greuther Furth,2,1
+D2,2026-10-11,St Pauli,Karlsruhe,2,0
+D2,2026-10-16,Cottbus,Nurnberg,1,1
+D2,2026-10-16,Holstein Kiel,Hertha,0,0
+D2,2026-10-17,Greuther Furth,Braunschweig,2,0
+D2,2026-10-17,Kaiserslautern,Bochum,2,0
+D2,2026-10-17,Wolfsburg,Heidenheim,3,1
+D2,2026-10-17,Hannover,St Pauli,1,1
+D2,2026-10-18,Bielefeld,Osnabruck,2,1
+D2,2026-10-18,Dresden,Magdeburg,2,0
+D2,2026-10-18,Karlsruhe,Darmstadt,4,0
+D2,2026-10-23,Bochum,Wolfsburg,1,1
+D2,2026-10-23,Darmstadt,St Pauli,0,0
+D2,2026-10-24,Heidenheim,Cottbus,1,1
+D2,2026-10-24,Hertha,Bielefeld,1,0
+D2,2026-10-24,Magdeburg,Karlsruhe,6,1
+D2,2026-10-24,Nurnberg,Kaiserslautern,0,1
+D2,2026-10-25,Braunschweig,Hannover,2,0
+D2,2026-10-25,Holstein Kiel,Dresden,3,0
+D2,2026-10-25,Osnabruck,Greuther Furth,3,0
+N1,2026-08-07,Cambuur,Excelsior,0,4
+N1,2026-08-08,Nijmegen,Telstar,1,2
+N1,2026-08-08,Go Ahead Eagles,Willem II,4,1
+N1,2026-08-08,PSV Eindhoven,For Sittard,2,2
+N1,2026-08-08,AZ Alkmaar,Den Haag,2,0
+N1,2026-08-09,Sparta Rotterdam,Feyenoord,0,1
+N1,2026-08-09,Groningen,Utrecht,2,1
+N1,2026-08-09,Zwolle,Ajax,0,2
+N1,2026-08-09,Heerenveen,Twente,1,0
+N1,2026-08-14,Telstar,Sparta Rotterdam,1,3
+N1,2026-08-15,Willem II,Nijmegen,1,4
+N1,2026-08-15,Utrecht,AZ Alkmaar,1,4
+N1,2026-08-15,Excelsior,PSV Eindhoven,1,2
+N1,2026-08-15,For Sittard,Cambuur,3,1
+N1,2026-08-16,Den Haag,Groningen,1,4
+N1,2026-08-16,Feyenoord,Go Ahead Eagles,2,2
+N1,2026-08-16,Twente,Zwolle,3,1
+N1,2026-08-16,Ajax,Heerenveen,2,2
+N1,2026-08-22,For Sittard,AZ Alkmaar,0,2
+N1,2026-08-22,Sparta Rotterdam,Utrecht,3,3
+N1,2026-08-22,Heerenveen,Zwolle,0,2
+N1,2026-08-23,Go Ahead Eagles,Den Haag,3,1
+N1,2026-08-23,PSV Eindhoven,Groningen,5,1
+N1,2026-08-23,Cambuur,Feyenoord,2,5
+N1,2026-08-28,Groningen,For Sittard,2,3
+N1,2026-08-29,Excelsior,Sparta Rotterdam,2,1
+N1,2026-08-29,AZ Alkmaar,Go Ahead Eagles,5,2
+N1,2026-08-29,Zwolle,Nijmegen,1,3
+N1,2026-08-30,Utrecht,PSV Eindhoven,1,6
+N1,2026-08-30,Feyenoord,Den Haag,2,2
+N1,2026-08-30,Willem II,Heerenveen,2,2
+N1,2026-08-30,Telstar,Ajax,0,4
+N1,2026-08-30,Cambuur,Twente,1,4
+N1,2026-09-04,Sparta Rotterdam,Zwolle,2,2
+N1,2026-09-05,Nijmegen,Feyenoord,1,3
+N1,2026-09-05,Ajax,PSV Eindhoven,1,3
+N1,2026-09-05,Willem II,Excelsior,0,3
+N1,2026-09-06,Groningen,Twente,2,2
+N1,2026-09-06,Heerenveen,AZ Alkmaar,2,3
+N1,2026-09-06,Telstar,Cambuur,2,2
+N1,2026-09-06,Den Haag,For Sittard,2,3
+N1,2026-09-08,Utrecht,Go Ahead Eagles,3,3
+N1,2026-09-08,Nijmegen,Excelsior,2,2
+N1,2026-09-09,Twente,Telstar,1,0
+N1,2026-09-11,AZ Alkmaar,Willem II,1,1
+N1,2026-09-12,Twente,Den Haag,2,0
+N1,2026-09-12,Go Ahead Eagles,Groningen,1,1
+N1,2026-09-12,For Sittard,Ajax,1,5
+N1,2026-09-12,Cambuur,Nijmegen,3,0
+N1,2026-09-13,Excelsior,Utrecht,1,2
+N1,2026-09-13,Heerenveen,Telstar,0,0
+N1,2026-09-13,Zwolle,Feyenoord,0,7
+N1,2026-09-13,PSV Eindhoven,Sparta Rotterdam,4,1
+N1,2026-09-15,Ajax,Willem II,5,1
+N1,2026-09-18,Groningen,Zwolle,3,0
+N1,2026-09-19,Den Haag,Cambuur,1,1
+N1,2026-09-19,Sparta Rotterdam,Heerenveen,0,4
+N1,2026-09-19,Ajax,Excelsior,2,2
+N1,2026-09-19,Willem II,For Sittard,0,1
+N1,2026-09-20,Feyenoord,Utrecht,5,0
+N1,2026-09-20,AZ Alkmaar,Telstar,1,0
+N1,2026-09-20,Twente,PSV Eindhoven,3,2
+N1,2026-09-20,Nijmegen,Go Ahead Eagles,1,1
+N1,2026-10-09,PSV Eindhoven,Heerenveen,2,0
+N1,2026-10-10,Go Ahead Eagles,Sparta Rotterdam,3,3
+N1,2026-10-10,Feyenoord,AZ Alkmaar,2,0
+N1,2026-10-10,For Sittard,Twente,1,1
+N1,2026-10-10,Ajax,Nijmegen,1,1
+N1,2026-10-11,Utrecht,Willem II,3,1
+N1,2026-10-11,Telstar,Den Haag,2,2
+N1,2026-10-11,Zwolle,Cambuur,0,1
+N1,2026-10-11,Excelsior,Groningen,1,5
+N1,2026-10-16,Heerenveen,Excelsior,4,0
+N1,2026-10-17,Den Haag,PSV Eindhoven,2,1
+N1,2026-10-17,Telstar,Feyenoord,3,4
+N1,2026-10-17,Sparta Rotterdam,Willem II,3,2
+N1,2026-10-18,Zwolle,Go Ahead Eagles,4,1
+N1,2026-10-18,Cambuur,AZ Alkmaar,2,2
+N1,2026-10-18,Groningen,Ajax,2,5
+N1,2026-10-18,Nijmegen,For Sittard,2,2
+N1,2026-10-18,Twente,Utrecht,1,2
+N1,2026-10-23,Go Ahead Eagles,Telstar,3,2
+N1,2026-10-24,Utrecht,Zwolle,1,1
+N1,2026-10-24,Willem II,Cambuur,1,6
+N1,2026-10-24,Den Haag,Heerenveen,2,3
+N1,2026-10-25,For Sittard,Excelsior,1,0
+N1,2026-10-25,Nijmegen,Groningen,2,2
+N1,2026-10-25,PSV Eindhoven,Feyenoord,1,1
+N1,2026-10-25,Sparta Rotterdam,Ajax,1,2
+N1,2026-10-25,AZ Alkmaar,Twente,0,2
+P1,2026-08-07,Estoril,Famalicao,1,1
+P1,2026-08-08,Maritimo,Casa Pia,1,0
+P1,2026-08-08,Guimaraes,Arouca,0,1
+P1,2026-08-08,Estrela,Sp Lisbon,2,2
+P1,2026-08-09,Porto,Alverca,2,0
+P1,2026-08-09,Benfica,Academico Viseu,2,2
+P1,2026-08-09,Gil Vicente,Rio Ave,1,0
+P1,2026-08-09,Moreirense,Sp Braga,2,2
+P1,2026-08-10,Santa Clara,Nacional,2,2
+P1,2026-08-14,Sp Lisbon,Guimaraes,3,2
+P1,2026-08-15,Alverca,Estrela,2,2
+P1,2026-08-15,Academico Viseu,Santa Clara,0,1
+P1,2026-08-15,Rio Ave,Porto,0,2
+P1,2026-08-16,Nacional,Estoril,2,0
+P1,2026-08-16,Arouca,Moreirense,4,0
+P1,2026-08-16,Famalicao,Maritimo,1,2
+P1,2026-08-17,Casa Pia,Benfica,0,7
+P1,2026-08-22,Maritimo,Academico Viseu,2,2
+P1,2026-08-22,Estoril,Rio Ave,0,2
+P1,2026-08-22,Sp Lisbon,Alverca,3,1
+P1,2026-08-23,Guimaraes,Nacional,1,0
+P1,2026-08-23,Santa Clara,Famalicao,1,0
+P1,2026-08-23,Porto,Arouca,2,0
+P1,2026-08-24,Gil Vicente,Casa Pia,2,0
+P1,2026-08-28,Rio Ave,Sp Lisbon,0,4
+P1,2026-08-29,Alverca,Santa Clara,1,1
+P1,2026-08-29,Arouca,Maritimo,2,1
+P1,2026-08-29,Academico Viseu,Porto,0,3
+P1,2026-08-30,Nacional,Estrela,2,3
+P1,2026-08-30,Casa Pia,Moreirense,0,1
+P1,2026-08-30,Famalicao,Gil Vicente,0,0
+P1,2026-08-31,Benfica,Estoril,2,1
+P1,2026-08-31,Sp Braga,Guimaraes,1,0
+P1,2026-09-04,Porto,Moreirense,2,1
+P1,2026-09-05,Estrela,Famalicao,2,2
+P1,2026-09-05,Alverca,Sp Braga,1,2
+P1,2026-09-05,Maritimo,Benfica,0,3
+P1,2026-09-05,Sp Lisbon,Nacional,2,0
+P1,2026-09-06,Santa Clara,Rio Ave,4,0
+P1,2026-09-06,Guimaraes,Casa Pia,0,0
+P1,2026-09-06,Gil Vicente,Academico Viseu,0,1
+P1,2026-09-07,Estoril,Arouca,0,0
+P1,2026-09-09,Moreirense,Benfica,0,4
+P1,2026-09-10,Estrela,Sp Braga,2,1
+P1,2026-09-12,Nacional,Alverca,1,3
+P1,2026-09-12,Casa Pia,Porto,1,4
+P1,2026-09-12,Academico Viseu,Guimaraes,2,1
+P1,2026-09-13,Arouca,Santa Clara,1,2
+P1,2026-09-13,Benfica,Gil Vicente,3,1
+P1,2026-09-13,Famalicao,Sp Lisbon,1,1
+P1,2026-09-14,Rio Ave,Estrela,3,3
+P1,2026-09-14,Moreirense,Maritimo,3,1
+P1,2026-09-14,Sp Braga,Estoril,1,0
+P1,2026-09-19,Gil Vicente,Maritimo,1,1
+P1,2026-09-19,Nacional,Famalicao,0,4
+P1,2026-09-19,Alverca,Rio Ave,1,0
+P1,2026-09-19,Sp Lisbon,Arouca,2,2
+P1,2026-09-20,Estrela,Academico Viseu,0,2
+P1,2026-09-20,Guimaraes,Moreirense,1,1
+P1,2026-09-20,Estoril,Casa Pia,1,2
+P1,2026-09-20,Santa Clara,Sp Braga,0,0
+P1,2026-09-20,Porto,Benfica,3,1
+P1,2026-10-09,Moreirense,Gil Vicente,0,1
+P1,2026-10-09,Sp Braga,Sp Lisbon,1,3
+P1,2026-10-10,Maritimo,Porto,1,2
+P1,2026-10-10,Academico Viseu,Estoril,2,1
+P1,2026-10-10,Casa Pia,Santa Clara,0,1
+P1,2026-10-11,Rio Ave,Nacional,3,2
+P1,2026-10-11,Benfica,Guimaraes,2,0
+P1,2026-10-11,Arouca,Estrela,1,0
+P1,2026-10-12,Famalicao,Alverca,1,4
+P1,2026-10-19,Sp Braga,Gil Vicente,1,2
+P1,2026-10-23,Guimaraes,Maritimo,5,0
+P1,2026-10-24,Estrela,Casa Pia,0,2
+P1,2026-10-24,Alverca,Arouca,0,1
+P1,2026-10-24,Gil Vicente,Porto,0,1
+P1,2026-10-25,Estoril,Moreirense,1,3
+P1,2026-10-25,Nacional,Sp Braga,1,0
+P1,2026-10-25,Rio Ave,Famalicao,0,4
+P1,2026-10-25,Sp Lisbon,Academico Viseu,1,2
+P1,2026-10-26,Santa Clara,Benfica,1,2
+B1,2026-08-07,Club Brugge,Kortrijk,3,0
+B1,2026-08-08,Standard,Cercle Brugge,2,2
+B1,2026-08-08,St Truiden,Lommel SK,1,1
+B1,2026-08-08,Westerlo,St. Gilloise,1,5
+B1,2026-08-09,Gent,Mechelen,2,0
+B1,2026-08-09,Charleroi,Oud-Heverlee Leuven,3,1
+B1,2026-08-09,Waregem,Genk,2,1
+B1,2026-08-09,Anderlecht,RAAL La Louviere,2,1
+B1,2026-08-09,Antwerp,Beveren,2,1
+B1,2026-08-14,Cercle Brugge,St Truiden,3,3
+B1,2026-08-15,St. Gilloise,Waregem,0,0
+B1,2026-08-15,Kortrijk,Antwerp,0,3
+B1,2026-08-15,Genk,Westerlo,3,2
+B1,2026-08-15,Oud-Heverlee Leuven,Club Brugge,0,3
+B1,2026-08-16,Beveren,Anderlecht,1,0
+B1,2026-08-16,RAAL La Louviere,Gent,1,2
+B1,2026-08-16,Mechelen,Standard,3,3
+B1,2026-08-16,Lommel SK,Charleroi,0,1
+B1,2026-08-21,Standard,RAAL La Louviere,2,0
+B1,2026-08-22,Waregem,Beveren,4,0
+B1,2026-08-22,Charleroi,Mechelen,2,0
+B1,2026-08-22,Antwerp,Genk,4,4
+B1,2026-08-23,Lommel SK,Westerlo,4,0
+B1,2026-08-23,Club Brugge,Cercle Brugge,1,0
+B1,2026-08-28,Genk,Beveren,4,0
+B1,2026-08-29,RAAL La Louviere,Mechelen,2,2
+B1,2026-08-29,Kortrijk,Charleroi,1,3
+B1,2026-08-29,Cercle Brugge,Lommel SK,0,1
+B1,2026-08-29,Oud-Heverlee Leuven,Standard,1,2
+B1,2026-08-30,Gent,Club Brugge,2,1
+B1,2026-08-30,Antwerp,St Truiden,1,4
+B1,2026-08-30,St. Gilloise,Anderlecht,3,0
+B1,2026-08-30,Westerlo,Waregem,2,2
+B1,2026-09-02,St Truiden,St. Gilloise,0,3
+B1,2026-09-03,Anderlecht,Kortrijk,1,0
+B1,2026-09-03,Gent,Oud-Heverlee Leuven,1,0
+B1,2026-09-04,Lommel SK,Club Brugge,0,1
+B1,2026-09-05,Charleroi,St. Gilloise,2,3
+B1,2026-09-05,Mechelen,Westerlo,0,4
+B1,2026-09-05,St Truiden,RAAL La Louviere,4,0
+B1,2026-09-05,Standard,Antwerp,1,0
+B1,2026-09-06,Cercle Brugge,Gent,0,3
+B1,2026-09-06,Kortrijk,Waregem,0,2
+B1,2026-09-06,Anderlecht,Genk,0,0
+B1,2026-09-06,Beveren,Oud-Heverlee Leuven,3,0
+B1,2026-09-11,Mechelen,Anderlecht,0,1
+B1,2026-09-12,Beveren,St Truiden,2,0
+B1,2026-09-12,Westerlo,Standard,4,2
+B1,2026-09-12,Oud-Heverlee Leuven,Cercle Brugge,1,1
+B1,2026-09-12,St. Gilloise,Lommel SK,5,0
+B1,2026-09-13,Club Brugge,Antwerp,3,1
+B1,2026-09-13,Genk,Gent,1,1
+B1,2026-09-13,Waregem,Charleroi,0,1
+B1,2026-09-13,RAAL La Louviere,Kortrijk,3,0
+B1,2026-09-18,Gent,Standard,2,1
+B1,2026-09-19,Oud-Heverlee Leuven,RAAL La Louviere,2,0
+B1,2026-09-19,Charleroi,Cercle Brugge,3,2
+B1,2026-09-19,Anderlecht,Waregem,3,0
+B1,2026-09-19,Lommel SK,Mechelen,0,0
+B1,2026-09-20,Antwerp,St. Gilloise,0,2
+B1,2026-09-20,St Truiden,Westerlo,0,2
+B1,2026-09-20,Club Brugge,Genk,3,0
+B1,2026-09-20,Kortrijk,Beveren,1,0
+B1,2026-10-09,Beveren,Lommel SK,1,3
+B1,2026-10-10,Cercle Brugge,Anderlecht,1,2
+B1,2026-10-10,RAAL La Louviere,Club Brugge,1,4
+B1,2026-10-10,Genk,Kortrijk,3,0
+B1,2026-10-10,Waregem,Gent,0,2
+B1,2026-10-11,Standard,Charleroi,0,1
+B1,2026-10-11,St. Gilloise,Oud-Heverlee Leuven,1,1
+B1,2026-10-11,Westerlo,Antwerp,5,1
+B1,2026-10-11,Mechelen,St Truiden,4,3
+B1,2026-10-24,Antwerp,Charleroi,3,0
+B1,2026-10-24,Oud-Heverlee Leuven,Lommel SK,2,2
+B1,2026-10-24,RAAL La Louviere,Waregem,3,0
+B1,2026-10-24,Westerlo,Beveren,4,4
+B1,2026-10-25,Genk,Standard,2,1
+B1,2026-10-25,Club Brugge,St Truiden,3,2
+B1,2026-10-25,Gent,Anderlecht,4,0
+B1,2026-10-25,St. Gilloise,Cercle Brugge,5,2
+T1,2026-08-14,Galatasaray,Corum,2,2
+T1,2026-08-15,Kasimpasa,Trabzonspor,1,1
+T1,2026-08-15,Konyaspor,Rizespor,0,1
+T1,2026-08-15,Gaziantep,Alanyaspor,1,1
+T1,2026-08-15,Genclerbirligi,Fenerbahce,2,1
+T1,2026-08-16,Buyuksehyr,Kocaelispor,2,0
+T1,2026-08-16,Amedspor,Erzurumspor,3,0
+T1,2026-08-16,Besiktas,Eyupspor,1,0
+T1,2026-08-17,Samsunspor,Goztep,3,3
+T1,2026-08-21,Erzurumspor,Galatasaray,0,4
+T1,2026-08-22,Corum,Kasimpasa,0,1
+T1,2026-08-22,Rizespor,Samsunspor,0,2
+T1,2026-08-22,Fenerbahce,Konyaspor,4,2
+T1,2026-08-23,Eyupspor,Gaziantep,0,1
+T1,2026-08-23,Trabzonspor,Buyuksehyr,2,1
+T1,2026-08-23,Alanyaspor,Besiktas,1,0
+T1,2026-08-23,Goztep,Genclerbirligi,0,1
+T1,2026-08-24,Kocaelispor,Amedspor,2,0
+T1,2026-08-28,Genclerbirligi,Erzurumspor,1,1
+T1,2026-08-29,Konyaspor,Kocaelispor,1,2
+T1,2026-08-29,Galatasaray,Goztep,3,2
+T1,2026-08-29,Gaziantep,Rizespor,1,2
+T1,2026-08-30,Eyupspor,Alanyaspor,2,1
+T1,2026-08-30,Buyuksehyr,Kasimpasa,1,1
+T1,2026-08-30,Samsunspor,Fenerbahce,0,2
+T1,2026-08-31,Amedspor,Trabzonspor,2,1
+T1,2026-08-31,Besiktas,Corum,6,2
+T1,2026-09-04,Buyuksehyr,Galatasaray,2,3
+T1,2026-09-05,Erzurumspor,Konyaspor,1,0
+T1,2026-09-05,Fenerbahce,Besiktas,1,2
+T1,2026-09-06,Corum,Eyupspor,3,0
+T1,2026-09-06,Kasimpasa,Amedspor,2,2
+T1,2026-09-06,Kocaelispor,Samsunspor,1,0
+T1,2026-09-06,Trabzonspor,Genclerbirligi,5,0
+T1,2026-09-07,Goztep,Gaziantep,2,4
+T1,2026-09-07,Rizespor,Alanyaspor,0,1
+T1,2026-09-11,Besiktas,Erzurumspor,3,0
+T1,2026-09-12,Eyupspor,Rizespor,0,2
+T1,2026-09-12,Samsunspor,Corum,1,5
+T1,2026-09-12,Alanyaspor,Goztep,2,2
+T1,2026-09-12,Konyaspor,Trabzonspor,1,0
+T1,2026-09-13,Genclerbirligi,Kasimpasa,1,2
+T1,2026-09-13,Amedspor,Buyuksehyr,5,0
+T1,2026-09-13,Galatasaray,Kocaelispor,1,0
+T1,2026-09-14,Gaziantep,Fenerbahce,0,0
+T1,2026-09-18,Kasimpasa,Konyaspor,0,0
+T1,2026-09-19,Corum,Alanyaspor,1,2
+T1,2026-09-19,Kocaelispor,Gaziantep,2,0
+T1,2026-09-19,Buyuksehyr,Genclerbirligi,4,0
+T1,2026-09-19,Trabzonspor,Galatasaray,4,0
+T1,2026-09-20,Erzurumspor,Samsunspor,1,0
+T1,2026-09-20,Fenerbahce,Eyupspor,8,0
+T1,2026-09-20,Amedspor,Besiktas,3,2
+T1,2026-09-20,Goztep,Rizespor,2,2
+T1,2026-10-09,Galatasaray,Kasimpasa,3,1
+T1,2026-10-10,Genclerbirligi,Amedspor,2,2
+T1,2026-10-10,Alanyaspor,Erzurumspor,0,0
+T1,2026-10-10,Samsunspor,Trabzonspor,0,3
+T1,2026-10-10,Rizespor,Fenerbahce,0,3
+T1,2026-10-11,Konyaspor,Buyuksehyr,0,0
+T1,2026-10-11,Gaziantep,Corum,0,3
+T1,2026-10-11,Besiktas,Kocaelispor,2,1
+T1,2026-10-12,Eyupspor,Goztep,0,4
+T1,2026-10-16,Corum,Rizespor,2,1
+T1,2026-10-17,Erzurumspor,Eyupspor,2,0
+T1,2026-10-17,Amedspor,Konyaspor,1,0
+T1,2026-10-17,Genclerbirligi,Galatasaray,0,1
+T1,2026-10-17,Fenerbahce,Alanyaspor,3,0
+T1,2026-10-18,Kasimpasa,Samsunspor,4,1
+T1,2026-10-18,Kocaelispor,Goztep,1,2
+T1,2026-10-18,Buyuksehyr,Gaziantep,2,1
+T1,2026-10-19,Trabzonspor,Besiktas,2,0
+T1,2026-10-23,Alanyaspor,Kocaelispor,1,2
+T1,2026-10-24,Eyupspor,Kasimpasa,0,1
+T1,2026-10-24,Gaziantep,Erzurumspor,1,3
+T1,2026-10-24,Samsunspor,Amedspor,1,2
+T1,2026-10-25,Konyaspor,Genclerbirligi,2,0
+T1,2026-10-25,Goztep,Corum,2,0
+T1,2026-10-26,Besiktas,Buyuksehyr,2,0
+T1,2026-10-26,Rizespor,Trabzonspor,3,4
+T1,2026-10-26,Galatasaray,Fenerbahce,2,1
+G1,2026-08-22,AEK,Iraklis,4,0
+G1,2026-08-22,Kalamata,Aris,2,3
+G1,2026-08-22,Olympiakos,Atromitos,1,0
+G1,2026-08-23,OFI Crete,Volos NFC,2,0
+G1,2026-08-23,PAOK,Levadeiakos,4,0
+G1,2026-08-23,Panetolikos,Asteras Tripolis,3,1
+G1,2026-08-29,Volos NFC,Iraklis,1,1
+G1,2026-08-29,Panetolikos,Kalamata,2,0
+G1,2026-08-30,Aris,OFI Crete,2,1
+G1,2026-08-30,Atromitos,PAOK,1,2
+G1,2026-08-30,Asteras Tripolis,Olympiakos,0,1
+G1,2026-08-30,Kifisia,AEK,1,1
+G1,2026-08-31,Levadeiakos,Panathinaikos,0,2
+G1,2026-09-05,Volos NFC,Olympiakos,1,1
+G1,2026-09-05,AEK,Aris,5,0
+G1,2026-09-06,Atromitos,Kalamata,1,1
+G1,2026-09-06,OFI Crete,Kifisia,2,0
+G1,2026-09-06,Levadeiakos,Panetolikos,0,2
+G1,2026-09-06,Panathinaikos,PAOK,3,1
+G1,2026-09-07,Asteras Tripolis,Iraklis,0,2
+G1,2026-09-10,Panathinaikos,Kifisia,3,1
+G1,2026-09-12,Olympiakos,OFI Crete,0,1
+G1,2026-09-12,Iraklis,Atromitos,1,1
+G1,2026-09-13,Kalamata,Volos NFC,3,1
+G1,2026-09-13,Asteras Tripolis,AEK,1,1
+G1,2026-09-13,Kifisia,Levadeiakos,0,0
+G1,2026-09-13,PAOK,Aris,2,0
+G1,2026-09-13,Panathinaikos,Panetolikos,3,0
+G1,2026-09-19,Atromitos,Kifisia,1,2
+G1,2026-09-19,Aris,Iraklis,0,0
+G1,2026-09-20,Levadeiakos,Olympiakos,0,1
+G1,2026-09-20,Volos NFC,AEK,1,2
+G1,2026-09-20,OFI Crete,Asteras Tripolis,2,2
+G1,2026-09-20,Kalamata,Panathinaikos,0,1
+G1,2026-09-20,Panetolikos,PAOK,1,3
+G1,2026-10-10,AEK,OFI Crete,3,0
+G1,2026-10-10,Asteras Tripolis,Atromitos,2,1
+G1,2026-10-11,Iraklis,Levadeiakos,2,0
+G1,2026-10-11,Kifisia,Panetolikos,2,0
+G1,2026-10-11,Aris,Volos NFC,3,2
+G1,2026-10-11,Olympiakos,Panathinaikos,1,0
+G1,2026-10-12,PAOK,Kalamata,1,3
+G1,2026-10-17,Levadeiakos,Volos NFC,0,0
+G1,2026-10-18,Kalamata,OFI Crete,4,3
+G1,2026-10-18,Panetolikos,Olympiakos,0,2
+G1,2026-10-18,Panathinaikos,Asteras Tripolis,5,1
+G1,2026-10-18,Kifisia,Aris,1,2
+G1,2026-10-18,PAOK,Iraklis,2,1
+G1,2026-10-24,Iraklis,Kifisia,2,3
+G1,2026-10-24,Asteras Tripolis,Levadeiakos,0,0
+G1,2026-10-24,AEK,Panetolikos,5,0
+G1,2026-10-25,Olympiakos,Kalamata,5,0
+G1,2026-10-25,Volos NFC,Panathinaikos,0,1
+G1,2026-10-25,Aris,Atromitos,3,1
+G1,2026-10-25,OFI Crete,PAOK,2,1
