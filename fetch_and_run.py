@@ -217,7 +217,7 @@ def season_code(today):
 
 def get(url, timeout=90):
     return urllib.request.urlopen(
-        urllib.request.Request(url, headers=UA), timeout=timeout).read().decode('utf-8', 'replace')
+        urllib.request.Request(url, headers=UA), timeout=timeout).read().decode('utf-8-sig', 'replace')
 
 
 def fetch_history():
