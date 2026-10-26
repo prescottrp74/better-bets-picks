@@ -23,7 +23,7 @@ from scipy.special import gammaln
 # ----------------------------------------------------------------------------
 # Config
 # ----------------------------------------------------------------------------
-BASE = "https://www.football-data.co.uk"
+BASE = "https://football-data.co.uk"
 HISTORY_URL = ("https://raw.githubusercontent.com/xgabora/"
                "Club-Football-Match-Data-2000-2025/main/data/Matches.csv")
 UA = {'User-Agent': 'Mozilla/5.0'}
@@ -234,6 +234,7 @@ def fetch_history():
 
 def fetch_results(code):
     rows = ['Division,MatchDate,HomeTeam,AwayTeam,FTHome,FTAway']
+    dbg = True
     for d in DIVS:
         try:
             txt = get(f"{BASE}/mmz4281/{code}/{d}.csv")
@@ -241,6 +242,9 @@ def fetch_results(code):
             print(f"  skip results {d}: {e}")
             continue
         lines = [x for x in txt.splitlines() if x.strip()]
+        if dbg:
+            print(f"  [debug {d}] first line: {lines[0][:120]!r}")
+            dbg = False
         h = lines[0].split(',')
         need = ('Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG')
         if not all(k in h for k in need):
@@ -268,6 +272,10 @@ def fetch_fixtures():
     txt = get(f"{BASE}/fixtures.csv")
     lines = [x for x in txt.splitlines() if x.strip()]
     h = lines[0].split(',')
+    if 'Div' not in h:
+        print(f"  [debug fixtures] unexpected first line: {lines[0][:150]!r}")
+        open('data/fixtures_latest.csv', 'w').write('division,date,home,away,under_odds,avg_under')
+        return 'data/fixtures_latest.csv'
     iH = {k: h.index(k) for k in ('Div', 'Date', 'HomeTeam', 'AwayTeam')}
     iMax = h.index('Max<2.5') if 'Max<2.5' in h else None
     iAvg = h.index('Avg<2.5') if 'Avg<2.5' in h else None
