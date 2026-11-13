@@ -1,103 +1,34 @@
 league,fixture,P_under,fair_odds,under_odds,exp_goals
-Serie A,Parma v Bologna,0.694,1.44,1.73,1.94
-Greek Super League,Olympiakos v PAOK,0.677,1.48,2.1,2.0
-Ligue 2,Boulogne v Annecy,0.669,1.5,1.62,2.03
-Scot Championship,Arbroath v Ayr,0.655,1.53,1.7,2.08
-Scot Championship,Queens Park v Partick,0.648,1.54,2.25,2.11
-Ligue 1,Le Havre v Lorient,0.64,1.56,1.83,2.13
-Scot Championship,Raith Rvs v Dunfermline,0.639,1.57,1.7,2.14
-Serie B,Virtus Entella v Modena,0.637,1.57,1.73,2.15
-Serie B,Carrarese v Sampdoria,0.637,1.57,1.85,2.15
-La Liga,Villarreal v Getafe,0.635,1.58,2.05,2.16
-Serie B,Padova v Empoli,0.623,1.61,1.8,2.2
-Scot Premiership,Aberdeen v Hibernian,0.616,1.62,2.05,2.23
-Premier League,Leeds v Tottenham,0.614,1.63,1.88,2.23
-Segunda,Leganes v Albacete,0.611,1.64,1.88,2.24
-Primeira Liga,Alverca v Casa Pia,0.611,1.64,1.9,2.24
-Primeira Liga,Guimaraes v Porto,0.602,1.66,1.95,2.28
-Scot League One,Cove Rangers v Hamilton,0.602,1.66,2.1,2.28
-Championship,Charlton v Sheffield United,0.601,1.67,1.95,2.28
-Championship,Portsmouth v Stoke,0.59,1.69,1.7,2.32
-Ligue 1,Angers v Nice,0.585,1.71,2.1,2.34
-Championship,West Brom v Millwall,0.575,1.74,2.0,2.38
-Primeira Liga,Famalicao v Arouca,0.572,1.75,1.7,2.39
-Turkish Super Lig,Gaziantep v Kasimpasa,0.561,1.78,2.0,2.44
-Serie A,Genoa v Milan,0.56,1.78,1.73,2.44
-Championship,Birmingham v Swansea,0.558,1.79,1.95,2.45
-Serie A,Napoli v Lazio,0.552,1.81,2.1,2.47
-Premier League,Fulham v Newcastle,0.55,1.82,2.25,2.48
-Greek Super League,Aris v Panetolikos,0.547,1.83,2.1,2.49
-La Liga,Valencia v Real Madrid,0.546,1.83,2.88,2.49
-La Liga,Osasuna v Ath Bilbao,0.546,1.83,1.73,2.49
-Greek Super League,Volos NFC v Kifisia,0.543,1.84,1.9,2.5
-Belgian Pro League,Oud-Heverlee Leuven v Mechelen,0.543,1.84,2.1,2.5
-Serie A,Torino v Lecce,0.542,1.84,1.95,2.51
-Premier League,Nott'm Forest v Man City,0.536,1.86,2.3,2.53
-Turkish Super Lig,Samsunspor v Konyaspor,0.534,1.87,1.85,2.54
-2.Bundesliga,Holstein Kiel v Bielefeld,0.528,1.89,2.0,2.56
-La Liga,Celta v Levante,0.526,1.9,1.93,2.57
-Serie A,Fiorentina v Juventus,0.518,1.93,2.05,2.6
-Ligue 2,Grenoble v Reims,0.517,1.93,1.91,2.61
-Ligue 2,Clermont v Rodez,0.51,1.96,2.0,2.63
-Scot Premiership,St Mirren v Rangers,0.5,2.0,2.5,2.68
-Bundesliga,Hamburg v M'gladbach,0.5,2.0,2.3,2.67
-Segunda,Cadiz v Oviedo,0.499,2.0,1.75,2.68
-Scot Premiership,Dundee United v Motherwell,0.498,2.01,2.4,2.68
-Ligue 1,Brest v Lyon,0.494,2.03,1.93,2.7
-Ligue 1,Rennes v Lille,0.49,2.04,2.38,2.71
-Segunda,Sp Gijon v Valladolid,0.49,2.04,1.7,2.72
-Scot League One,Montrose v East Fife,0.488,2.05,1.88,2.72
-Belgian Pro League,St. Gilloise v Genk,0.487,2.05,2.38,2.73
-Turkish Super Lig,Alanyaspor v Trabzonspor,0.484,2.07,2.15,2.74
-Ligue 2,Dunkerque v Guingamp,0.462,2.16,2.2,2.83
-Championship,Bristol City v Norwich,0.461,2.17,2.05,2.83
-Serie A,Inter v Como,0.461,2.17,2.7,2.84
-Segunda,Las Palmas v Eldense,0.461,2.17,2.05,2.84
-Premier League,Crystal Palace v Liverpool,0.458,2.19,2.4,2.85
-Ligue 1,Auxerre v Paris FC,0.456,2.19,2.15,2.86
-2.Bundesliga,Bochum v Karlsruhe,0.455,2.2,2.5,2.86
-Championship,Watford v Middlesbrough,0.454,2.2,2.63,2.87
-Eredivisie,Twente v Ajax,0.447,2.24,2.75,2.89
-La Liga,Elche v Betis,0.446,2.24,2.25,2.9
-Greek Super League,OFI Crete v Atromitos,0.436,2.29,1.83,2.94
-Premier League,Brighton v Brentford,0.433,2.31,2.4,2.96
-Premier League,Sunderland v Chelsea,0.432,2.32,2.05,2.96
-La Liga,Sevilla v Alaves,0.425,2.35,1.67,2.99
-Turkish Super Lig,Besiktas v Genclerbirligi,0.421,2.37,3.1,3.01
-Scot League Two,Forfar v Edinburgh City,0.421,2.37,2.2,3.01
-Eredivisie,Heerenveen v Feyenoord,0.419,2.39,3.0,3.02
-Scot Premiership,Hearts v Falkirk,0.414,2.41,2.5,3.04
-Premier League,Man United v Aston Villa,0.414,2.42,2.4,3.04
-Scot League Two,Elgin v Dumbarton,0.413,2.42,2.35,3.04
-Primeira Liga,Rio Ave v Sp Braga,0.413,2.42,2.03,3.05
-Scot League Two,Stranraer v Stirling,0.406,2.46,2.38,3.08
-Turkish Super Lig,Goztep v Buyuksehyr,0.395,2.53,2.35,3.13
-Belgian Pro League,St Truiden v Waregem,0.391,2.55,2.38,3.15
-Eredivisie,For Sittard v Telstar,0.39,2.56,2.38,3.15
-Ligue 2,St Etienne v Laval,0.387,2.58,2.38,3.16
-Bundesliga,Freiburg v Union Berlin,0.382,2.62,2.3,3.19
-Eredivisie,AZ Alkmaar v Groningen,0.378,2.64,3.0,3.21
-Championship,Preston v Southampton,0.363,2.76,2.4,3.28
-Serie B,Cesena v Catanzaro,0.36,2.78,2.1,3.3
-Ligue 1,Toulouse v Strasbourg,0.355,2.82,2.4,3.32
-Bundesliga,FC Koln v Leverkusen,0.355,2.82,3.0,3.32
-2.Bundesliga,Dresden v Greuther Furth,0.354,2.82,2.4,3.33
-Greek Super League,AEK v Levadeiakos,0.351,2.85,2.25,3.34
-2.Bundesliga,Nurnberg v Darmstadt,0.351,2.85,2.63,3.34
-Segunda,Cordoba v Ceuta,0.339,2.95,2.75,3.4
-La Liga,Ath Madrid v Barcelona,0.336,2.98,3.5,3.42
-Belgian Pro League,RAAL La Louviere v Cercle Brugge,0.328,3.05,1.95,3.46
-La Liga,Sociedad v Vallecano,0.327,3.06,2.4,3.47
-Scot League Two,Clyde v Spartans,0.326,3.07,2.4,3.47
-Belgian Pro League,Westerlo v Charleroi,0.325,3.08,2.38,3.48
-Eredivisie,Utrecht v Nijmegen,0.319,3.13,2.63,3.51
-Ligue 1,Lens v Marseille,0.306,3.26,2.63,3.58
-Belgian Pro League,Club Brugge v Anderlecht,0.287,3.48,3.0,3.69
-Primeira Liga,Sp Lisbon v Moreirense,0.285,3.51,2.88,3.71
-Bundesliga,Stuttgart v Werder Bremen,0.284,3.52,3.4,3.71
-Eredivisie,Excelsior v Go Ahead Eagles,0.28,3.57,2.63,3.73
-Primeira Liga,Estrela v Benfica,0.264,3.79,2.88,3.83
-Serie A,Roma v Sassuolo,0.253,3.96,3.2,3.9
-Bundesliga,RB Leipzig v Augsburg,0.246,4.06,4.0,3.94
-Scot Premiership,Celtic v Kilmarnock,0.204,4.9,3.9,4.25
-Bundesliga,Mainz v Bayern Munich,0.147,6.81,4.5,4.76
+Segunda,Leganes v Burgos,0.712,1.4,1.62,1.87
+Eng National League,Kidderminster v Halifax,0.705,1.42,2.0,1.9
+Scot League One,East Fife v Peterhead,0.6,1.67,1.93,2.28
+Eng League Two,Shrewsbury v Oldham,0.585,1.71,1.88,2.34
+Eng League One,Wigan v Barnsley,0.584,1.71,2.4,2.35
+Eng League One,AFC Wimbledon v Blackpool,0.58,1.72,2.02,2.36
+Scot Championship,Ayr v Raith Rvs,0.578,1.73,1.65,2.37
+Segunda,Eibar v Cadiz,0.544,1.84,2.1,2.5
+Scot League Two,Dumbarton v Annan Athletic,0.532,1.88,2.25,2.54
+Segunda,Sociedad B v Sp Gijon,0.532,1.88,1.83,2.55
+Eng League Two,Crewe v Newport County,0.529,1.89,1.88,2.56
+Eng League Two,Colchester v Gillingham,0.528,1.89,1.85,2.56
+Eng League Two,Fleetwood Town v Tranmere,0.522,1.91,2.0,2.58
+Eng League Two,Swindon v Grimsby,0.49,2.04,2.38,2.71
+Segunda,Valladolid v Castellon,0.48,2.08,2.2,2.75
+Segunda,Granada v Las Palmas,0.473,2.12,2.0,2.79
+Eng League One,Stockport v Reading,0.472,2.12,2.3,2.79
+Scot League One,Cove Rangers v Montrose,0.47,2.13,1.98,2.8
+Eng National League,Hartlepool v Wealdstone,0.448,2.23,2.2,2.89
+Eng National League,Gateshead v Barrow,0.441,2.27,2.2,2.92
+Eng National League,Hornchurch v Tamworth,0.439,2.28,2.2,2.93
+Eng League Two,Bristol Rvs v Chesterfield,0.437,2.29,2.1,2.94
+Eng National League,Sutton v Solihull,0.421,2.38,2.2,3.01
+Scot League Two,Forfar v Spartans,0.42,2.38,2.05,3.01
+Eng National League,Eastleigh v Fylde,0.394,2.54,2.75,3.13
+Eng National League,Harrogate v Altrincham,0.359,2.78,2.4,3.3
+Eng National League,Carlisle v Boston Utd,0.356,2.81,3.0,3.32
+Eng National League,Yeovil v Boreham Wood,0.341,2.93,2.55,3.39
+Eng National League,Southend v Aldershot,0.317,3.15,3.0,3.52
+Scot League Two,Stirling v Elgin,0.316,3.17,2.38,3.53
+Scot League Two,Edinburgh City v Clyde,0.313,3.19,2.15,3.54
+Segunda,Almeria v Andorra,0.307,3.26,2.4,3.58
+Eng National League,Scunthorpe v Worthing,0.281,3.56,2.75,3.73
